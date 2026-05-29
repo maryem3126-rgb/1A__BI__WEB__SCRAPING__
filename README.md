@@ -1,5 +1,14 @@
-# 1A-BI-WEB-SCRAPPING-RABACH-Maryem
+#Web scraping — ProductHunt & GitHub with Python
 
-Hello Madam, I hope you're doing well.
-This is what i have done so far in the fisrt Lab. 
-I didn't understand the concept of the headers.
+Two targets, two different techniques — chosen based on each site's technical constraints.
+
+## Approach 1 — GitHub (requests + BeautifulSoup)
+GitHub search pages render server-side, so a simple HTTP request is enough.
+Tools: `requests`, `BeautifulSoup`, `json`
+
+## Approach 2 — ProductHunt (Selenium + BeautifulSoup)
+ProductHunt uses client-side JavaScript rendering — simple requests return
+empty pages. Solution: automate a real browser with Selenium to let the
+page load before parsing.
+Tools: `selenium`, `BeautifulSoup`, `json`, `csv`
+
