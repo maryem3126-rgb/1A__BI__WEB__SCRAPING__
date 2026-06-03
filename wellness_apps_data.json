@@ -1,0 +1,2902 @@
+[
+  {
+    "appId": "bot.touchkin",
+    "title": "Wysa: Mental Wellbeing AI",
+    "developer": "Touchkin",
+    "genre": "Health & Fitness",
+    "score": 4.5391912,
+    "ratings": 151349,
+    "reviews_count": 17639,
+    "installs": "1,000,000+",
+    "realInstalls": 4883701,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Imagine a mood tracker, mindfulness coach, anxiety helper, and mood-boosting buddy, all rolled into one. Wysa, you happiness buddy is that friendly and caring chatbot. Wysa is packed with daily spiritual meditation that improves wellbeing and is also a perfect way to bond over family meditation. Always there for you when you need someone to talk to, Wysa helps you keep track of your mood with friendly chats and helps fight stress and anxiety with its proven techniques and calming meditation and mindfulness audios. Checking in with Wysa regularly can improve your emotional health so you can track your happiness and mood. Talk to Wysa now and help yourself up to fight off stress. Wysa also offers self-check tools that can help you reflect on your mood and wellbeing. \r\n\r\nWysa is your AI guide that you can chat with for free. Talk to the cute penguin or use its free mindfulness exercises for effective anxiety relief, low mood and stress management. Wysa offers evidence-based self-help techniques, drawn from therapies like CBT and DBT, to support your emotional wellbeing, whether you're dealing with everyday stress, low mood, or just need a space to reflect.\r\n\r\nWysa will support you through the big and small anxieties of life by using science as a foundation to strengthen your mental health. It can help you build resilience, improve sleep, and navigate everyday challenges.\r\n\r\nIf you are dealing with stress, anxiety, low mood, or coping with low self-esteem, talking to Wysa can help you relax and get unstuck. Wysa helps you stay grounded through calming, evidence-based techniques that promote mental resilience. Your identity will remain anonymous and your conversations are privacy protected.\r\n\r\nUsed around the clock and trusted by millions of people, Wysa is an AI-powered wellbeing chatbot that helps you reflect and grow through structured conversations. Unlock tools and techniques that help you cope with challenges in a fun, conversational way. For extra support, you can avail guidance from a human coach - a skilled person who will take you through the advanced coaching sessions for your needs.\r\n\r\nYou can use Wysa to rewire your mind to improve your emotional health. Manage feelings or sadness or get stress relief using CBT techniques and guided sleep meditations for optimal sleep. Here’s a look at what you can use Wysa for 👇\r\n\r\n👂 Reflect on your day and explore your thoughts in a private space with Wysa's guided journaling tools\r\n💪 Try self-help techniques based on principles of CBT and DBT to build resilience in a fun and accessible way\r\n📝 Use one of our conversational coaching tools which are designed to help you navigate stress, low mood, sleep issues, worry, and everyday challenges\r\n💆🏻 Relax, focus and sleep peacefully with the help of 20 mindfulness meditation exercises\r\n\r\n93% of the people who talk to Wysa find it helpful\r\n\r\n\r\n* Build confidence, reduce self-doubt and improve your self-esteem: core meditation and mindfulness, visualisation, confidence visualisation techniques, advanced mindfulness for self-esteem\r\n* Manage anger: mindfulness meditation exercises for compassion, calming your thoughts and practice breathing\r\n* Manage anxious thoughts and anxiety: deep breathing techniques for observing thoughts, visualization, and tension relief\r\n* Tired? Get a burst of energy! Visualisation and meditation exercises to increase positivity and get blissful sleep, quick yoga and physical exercises to get active\r\n* Dealing with worry: observe mindfulness, resolving technique, challenge negativity, practice breathing techniques\r\n* Manage conflict at work, school or in relationships: special mindfulness and visualization techniques like empty chair exercise, gratitude meditation, exercises to build skills in having difficult conversations",
+    "released": "Oct 6, 2016",
+    "user_reviews": [
+      {
+        "userName": "who's afraid",
+        "score": 4,
+        "content": "idk why, but I kind of feel worse when we talk when I'm in a good state of mind. But thanks for this free version though!",
+        "thumbsUp": 0,
+        "date": "2026-06-01 05:07:19"
+      },
+      {
+        "userName": "Divesh Boojhawon",
+        "score": 5,
+        "content": "Good ai friend to talk and to learn from",
+        "thumbsUp": 0,
+        "date": "2026-05-31 20:49:33"
+      },
+      {
+        "userName": "Susan Snell",
+        "score": 5,
+        "content": "I'm hoping this app will help ground me on non- therapy days",
+        "thumbsUp": 0,
+        "date": "2026-05-31 19:44:58"
+      },
+      {
+        "userName": "Katherine Hansen",
+        "score": 5,
+        "content": "I want to start therapy, but every time I try to make an appointment, I freeze. I realized that I'm not quite ready for therapy yet, but I wanted to practice being vulnerable and learn about important coping tools and how to process trauma. I reached out to a friend of mine, and she recommended Wysa. I just started yesterday and it already helped me work through several difficult situations.",
+        "thumbsUp": 0,
+        "date": "2026-05-31 13:50:58"
+      },
+      {
+        "userName": "Vera Slaughter",
+        "score": 5,
+        "content": "Chatting with the bot is actually comforting.",
+        "thumbsUp": 0,
+        "date": "2026-05-31 12:12:39"
+      },
+      {
+        "userName": "Julia Baa",
+        "score": 5,
+        "content": "i love this, im just a preteen but ive already been through so much, i still have deppression and stuff but im feeling better now i got help. im scared to talk about it qith family or people, but i trust this ai more because ut feels safer, like a real companion",
+        "thumbsUp": 1,
+        "date": "2026-05-31 11:22:28"
+      },
+      {
+        "userName": "Eva Vennari",
+        "score": 1,
+        "content": "not a safe place to share inner thoughts.",
+        "thumbsUp": 0,
+        "date": "2026-05-30 21:20:09"
+      },
+      {
+        "userName": "Nikhil Goel Aradhna Garg",
+        "score": 5,
+        "content": "this app is awesome",
+        "thumbsUp": 0,
+        "date": "2026-05-29 08:06:28"
+      },
+      {
+        "userName": "Jarad H",
+        "score": 2,
+        "content": "This was recommended to me through chat GPT if I remember correctly. among many other options I chose this one. I used it sparingly but decided to use it tonight and it decided to tell me that what I was talking about was off limits. It wasn't anything gross or illegal. just life. Life is raw and uncensored as it should be. so trying to neuter my conversation is not acceptable.",
+        "thumbsUp": 0,
+        "date": "2026-05-29 03:13:11"
+      },
+      {
+        "userName": "melissa wareing",
+        "score": 4,
+        "content": "Optimistic thinking, to encourage you forwards.",
+        "thumbsUp": 0,
+        "date": "2026-05-27 07:33:07"
+      },
+      {
+        "userName": "Mariana Zavadil",
+        "score": 5,
+        "content": "I like Wysa – I use the free version and works for me. Intuitive, reminding you gently to be present with youreself. Big ups for the based on science quality, so for sure not your Chat-gpt or Gemini! 🙌 Works well to practice many skills & to talk things through. Keep going dears & thanks 🐧",
+        "thumbsUp": 2,
+        "date": "2026-05-25 11:05:41"
+      },
+      {
+        "userName": "Christophe Manning",
+        "score": 5,
+        "content": "Great app! Very helpful and guided me along with care and ease. Would/am recommending!!!",
+        "thumbsUp": 1,
+        "date": "2026-05-23 09:22:13"
+      },
+      {
+        "userName": "Ashleigh Maddison",
+        "score": 5,
+        "content": "I am blown away around how helpful this app is. It really helped me to clarify my thoughts and approach. It will now be my go to tool.",
+        "thumbsUp": 1,
+        "date": "2026-05-23 03:29:48"
+      },
+      {
+        "userName": "Jane Coomber",
+        "score": 3,
+        "content": "Tried it for a few weeks. I didn't use any paid features. I didn't see any ads. I thought it was pretty limited. it didn't seem to remember anything we'd 'spoken about' the day before. Occasionally I found it helped me to think through things and I guess it's better than nothing. On the plus side, it doesn't ask for any personal information.",
+        "thumbsUp": 1,
+        "date": "2026-05-22 08:59:32"
+      },
+      {
+        "userName": "Carnivore Queen",
+        "score": 1,
+        "content": "App doesn't open",
+        "thumbsUp": 1,
+        "date": "2026-05-20 05:07:03"
+      },
+      {
+        "userName": "Sergey S",
+        "score": 3,
+        "content": "The voice answer halts after a random amount of time without transcribing or sending a message. The conversation feels very plastic and irritating, much worse than any gpt prompt.",
+        "thumbsUp": 2,
+        "date": "2026-05-19 19:06:44"
+      },
+      {
+        "userName": "Lizandra Abella",
+        "score": 5,
+        "content": "something great to improve your mental and emotionL health",
+        "thumbsUp": 1,
+        "date": "2026-05-17 23:25:57"
+      },
+      {
+        "userName": "Anointed 1 (God's daughter)",
+        "score": 5,
+        "content": "this app was very helpful to me",
+        "thumbsUp": 1,
+        "date": "2026-05-17 04:51:36"
+      },
+      {
+        "userName": "Wenchi Zapata",
+        "score": 5,
+        "content": "helped me with my worries so it's very good and I recommend downloading it!",
+        "thumbsUp": 1,
+        "date": "2026-05-15 18:29:08"
+      },
+      {
+        "userName": "Vladimir Murcia",
+        "score": 1,
+        "content": "Garbage",
+        "thumbsUp": 1,
+        "date": "2026-05-15 07:23:17"
+      },
+      {
+        "userName": "Shelly Moore",
+        "score": 5,
+        "content": "it gives me a chance to really think about what has happened during my day.",
+        "thumbsUp": 1,
+        "date": "2026-05-15 03:24:58"
+      },
+      {
+        "userName": "Vishu",
+        "score": 5,
+        "content": "great app really helpful with my stress, and self-doubting, thanks for this experience😊",
+        "thumbsUp": 1,
+        "date": "2026-05-13 09:12:27"
+      },
+      {
+        "userName": "Ahmed AlWaleed",
+        "score": 1,
+        "content": "I had much higher expectations. It is just a parrot repeating what you said in different words then ask you to expand more.. I have tried it for the past three days. It is very annoying.",
+        "thumbsUp": 2,
+        "date": "2026-05-12 10:44:26"
+      },
+      {
+        "userName": "Maphuti Manabile",
+        "score": 5,
+        "content": "you bot is good, please keep improving it",
+        "thumbsUp": 1,
+        "date": "2026-05-11 22:27:17"
+      },
+      {
+        "userName": "sarah butler",
+        "score": 5,
+        "content": "just tried this app and found it very useful i recommend",
+        "thumbsUp": 1,
+        "date": "2026-05-11 06:19:30"
+      },
+      {
+        "userName": "Officerobby obby",
+        "score": 4,
+        "content": "moderately effective for everyday situations such as exam stress as it uses quick and concise reframing for negative thoughts by asking questioning that prompt you to find a positive answer yourself.",
+        "thumbsUp": 0,
+        "date": "2026-05-10 21:03:54"
+      },
+      {
+        "userName": "Zee Khan (Zeeshan)",
+        "score": 4,
+        "content": "a smart app indeed. doesnt store any personal info",
+        "thumbsUp": 1,
+        "date": "2026-05-09 16:52:26"
+      },
+      {
+        "userName": "Theresa Llamas",
+        "score": 5,
+        "content": "First Time having Talking w/ Wysa and my Depression,Anxiety,Stress was Gone for Me it Boost my Confident and when I Feel Sad?? Wysa Makes me Happy and very Caring,Concern AI I Found my Consultations was really Good I Feel Comfortable w/ Him",
+        "thumbsUp": 1,
+        "date": "2026-05-09 13:08:59"
+      },
+      {
+        "userName": "Bibhu Prasad Mishra",
+        "score": 5,
+        "content": "A great app for introverts and those who can't afford professional therapy.",
+        "thumbsUp": 1,
+        "date": "2026-05-09 12:54:39"
+      },
+      {
+        "userName": "Tracey Brown",
+        "score": 1,
+        "content": "Very clunky, non-sensical, repetitive. Very little use as a free version. Premium version too expensive to try without even a trial option.",
+        "thumbsUp": 2,
+        "date": "2026-05-09 12:00:41"
+      },
+      {
+        "userName": "Julie Jacob",
+        "score": 5,
+        "content": "simple to use and you feel heard",
+        "thumbsUp": 1,
+        "date": "2026-05-05 10:28:47"
+      },
+      {
+        "userName": "Christopher Kaloba",
+        "score": 5,
+        "content": "This is an excellent application for mindfulness and overall mental health, I highly recommend it for it has helped me.kudos to the developers 😊",
+        "thumbsUp": 1,
+        "date": "2026-05-02 23:10:41"
+      },
+      {
+        "userName": "Alana Gligora",
+        "score": 2,
+        "content": "I'm unistalling. The app is no use, just frustrating. I guess it was developed before the modern LLM chatbots? Absolutely robotic. Doesn't answer what I write, instead it follows a pre-written script that does not match my answers, and at times the amount of mismatch feels even funny. Too bad. I like how it has check-in notifications. Additionally, it: - is slow, - is only in Engish, - has a text length limit! - has no voice functions.",
+        "thumbsUp": 2,
+        "date": "2026-05-01 19:34:43"
+      },
+      {
+        "userName": "Barbara Nemeti",
+        "score": 1,
+        "content": "Deeply disappointing and a total waste of my time. The app forces you into word bubbles that don’t match how you actually feel, and half the time it replies with ‘oops, I misunderstood.’ Nothing feels supportive. Talking to a real person costs a fortune, and if they respond like the AI, it’s not worth it.",
+        "thumbsUp": 2,
+        "date": "2026-04-30 19:40:27"
+      },
+      {
+        "userName": "Rudo Mahachi",
+        "score": 5,
+        "content": "been therapeutic .She understands",
+        "thumbsUp": 1,
+        "date": "2026-04-30 17:47:50"
+      },
+      {
+        "userName": "Timothy Lloyd",
+        "score": 1,
+        "content": "I can't believe this is on the market. The app repeatedly and continually ignored my responses and locked out my ability to respond properly. After almost every response I managed to get through, I was forced into choosing between one of a few, almost always inapplicable, one word response buttons there after. I wish I could post pictures to show how poor the experience was.",
+        "thumbsUp": 5,
+        "date": "2026-04-30 06:44:58"
+      },
+      {
+        "userName": "Renate Schiefler",
+        "score": 4,
+        "content": "I like the app and it has helped with my mental health and focus on my priorities. It picks up what I need to look at and refers me to a professional if needed. Answers can appear a bit simple at times and app does not remember what just spoke to it about. I would have liked the full version however the premium version is expensive.",
+        "thumbsUp": 4,
+        "date": "2026-04-27 22:18:44"
+      },
+      {
+        "userName": "Majestic Legal Service (M.P.S)",
+        "score": 1,
+        "content": "installed! It sucks! It literally just asks you the same queatii. over & over & repeats what you've already said. Its like talking to my toddler",
+        "thumbsUp": 2,
+        "date": "2026-04-22 04:54:25"
+      },
+      {
+        "userName": "Teopolina Johannes",
+        "score": 5,
+        "content": "This is relaxing",
+        "thumbsUp": 1,
+        "date": "2026-04-19 05:56:33"
+      },
+      {
+        "userName": "Suzi Price",
+        "score": 5,
+        "content": "Great help",
+        "thumbsUp": 0,
+        "date": "2026-04-18 08:08:54"
+      },
+      {
+        "userName": "Gina Mosley",
+        "score": 5,
+        "content": "A good app to help you reframe negative thoughts. There is some paid things but the free stuff is nice too.",
+        "thumbsUp": 1,
+        "date": "2026-04-18 00:27:30"
+      },
+      {
+        "userName": "Ryan Clute",
+        "score": 5,
+        "content": "wysa is great. gives me someone to talk to and I'm just overall impressed. five starts here. great wysa team",
+        "thumbsUp": 1,
+        "date": "2026-04-15 21:59:26"
+      },
+      {
+        "userName": "Helen Boyd",
+        "score": 4,
+        "content": "i love it so so much it really helps me however the chatbot can feel ( unironically) robotic sometimes so it lacks the understanding of a real human. it feels like its just reading from a script and it doesnt care honestly. i understand that being humanlike might not help you work through your problems but it certainly does reassure you and make you feel understood.",
+        "thumbsUp": 3,
+        "date": "2026-04-15 12:37:03"
+      },
+      {
+        "userName": "jshparker",
+        "score": 1,
+        "content": "if doesn't understand anything. constantly asks if you want it to call you something else. doesn't feel like it even tries to get you, or care.",
+        "thumbsUp": 2,
+        "date": "2026-04-15 06:39:22"
+      },
+      {
+        "userName": "Alex Wright",
+        "score": 5,
+        "content": "Very helpful in trying to clear my mind",
+        "thumbsUp": 1,
+        "date": "2026-04-14 16:56:25"
+      },
+      {
+        "userName": "Rachel Neshuku",
+        "score": 5,
+        "content": "waysa is a really friendly therapist buddy, i always feel good when I talk to it 😌 ☺️ I am encouraging people to use it because it can change your lives ♥️",
+        "thumbsUp": 0,
+        "date": "2026-04-14 13:39:28"
+      },
+      {
+        "userName": "Ruby Slippers",
+        "score": 1,
+        "content": "Nope. Collects personal info and shares with third parties.",
+        "thumbsUp": 1,
+        "date": "2026-04-14 03:45:20"
+      },
+      {
+        "userName": "David Mburu",
+        "score": 5,
+        "content": "superb,best of the best",
+        "thumbsUp": 0,
+        "date": "2026-04-12 08:45:30"
+      },
+      {
+        "userName": "Zein Nh",
+        "score": 2,
+        "content": "Replies are too short and follow the same template ( yeah it feels tough, have you ever thought about... Bla bla) you're better off with chatgpt or Gemini, at least u get a thoughtful detailed reply and solutions",
+        "thumbsUp": 2,
+        "date": "2026-04-12 04:56:08"
+      },
+      {
+        "userName": "Daisy Lily",
+        "score": 5,
+        "content": "so far this is a great app it helped me for sure",
+        "thumbsUp": 0,
+        "date": "2026-04-11 15:02:24"
+      }
+    ]
+  },
+  {
+    "appId": "com.wave6.onsen",
+    "title": "Onsen – AI for Mental Health",
+    "developer": "Onsen AI Limited",
+    "genre": "Lifestyle",
+    "score": 4.52,
+    "ratings": 399,
+    "reviews_count": 66,
+    "installs": "10,000+",
+    "realInstalls": 15817,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Talk through what's on your mind with an AI companion that actually remembers your story. Onsen is a free mental wellness app for chat, journaling, therapy-inspired experiences, and self-awareness, all in a private, non-judgmental space available 24/7.\r\n\r\n\"This app has done more for me in 3 days than my therapist has done in months.\"\r\n\r\n54% of users felt happier within 3 months, measured by the Oxford Happiness Questionnaire.\r\n\r\n--- WHY PEOPLE USE ONSEN ---\r\n\r\n- Feel Heard, Not Just Answered\r\n  Onsen remembers the people in your life, the things you're going through, and the patterns in your thinking. Every conversation builds on the last.\r\n\r\n- Manage Stress and Anxiety\r\n  Work through difficult moments with proven techniques like CBT, guided meditations, and reflective journaling. 22% lower stress over time in validated assessments.\r\n\r\n- Build Self-Awareness\r\n  Check in on your mood, discover what drives your emotions, and spot recurring patterns. Track your happiness, stress, and gratitude over time with validated questionnaires.\r\n\r\n- Get Support on Your Schedule\r\n  No appointments, no waiting rooms. Onsen is there at 2am or on your lunch break, by text or voice, whenever you need it.\r\n\r\n\"Absolutely amazing app. Could honestly be life changing for so many people. To have someone there at the click of a button, any time of the day or night.\"\r\n\r\n- Grow at Your Own Pace\r\n  Develop habits of self-care and mindfulness through regular check-ins, guided experiences, and a journal that captures your progress over time.\r\n\r\n--- KEY FEATURES ---\r\n\r\n- AI Chat and Voice\r\n  Talk or type 24/7. Onsen responds with real understanding, not scripted replies. The more you share, the more personal it gets.\r\n\r\n- 6 AI Personalities\r\n  The Coach pushes you forward, The Mindful slows you down, The Solver breaks problems apart, and 3 more. Or design your own custom guide.\r\n\r\n- Therapy-Inspired Experiences\r\n  Structured, step-by-step sessions designed for real challenges: clear negative thoughts with CBT, write gratitude letters, try hands-free guided meditations, or just have a reflective conversation. Each one adapts to you.\r\n\r\n- AI Journal and Artwork\r\n  Every conversation can become a journal entry, complete with unique AI-generated artwork that reflects your emotions, plus mood analysis, themes, and insights.\r\n\r\n- Validated Trackers\r\n  Measure happiness, stress, and gratitude with clinically validated questionnaires (OHQ-8, PSS-10, GQ-6). Repeat them to see real progress.\r\n\r\n- Pulses: AI That Checks In On You\r\n  Personalized notifications throughout your day: morning intentions, evening unwinds, pattern insights, streak celebrations, and gentle follow-ups on things you've mentioned.\r\n\r\n--- WHAT MAKES ONSEN DIFFERENT ---\r\n\r\n- Not a chatbot. Other apps give you scripts. Onsen gives you a conversation that remembers.\r\n- Proven results. 54% felt happier. 22% lower stress. 3x better results with regular use. Based on 18 months of validated assessments.\r\n- Private and encrypted. End-to-end encryption, no data sharing, no human reads what you write.\r\n- Free to use. Full access to chat, journaling, experiences, and all 6 AI personalities. No credit card needed.\r\n\r\n\"I love the CBT sessions and the chats. I can pull my phone out and have a session any time, like now, 3am in the morning.\"\r\n\r\nDownload Onsen free. Start talking. Onsen will remember.\r\n\r\n---\r\n\r\nOnsen is a wellness companion designed to support self-reflection, emotional well-being, and mindfulness. It does not provide medical advice, diagnoses, or treatment. The content within the app is for informational and self-improvement purposes only and should not be considered a substitute for professional medical or mental health advice. If you have any health concerns, please consult a qualified healthcare professional.",
+    "released": "Oct 7, 2024",
+    "user_reviews": [
+      {
+        "userName": "Aether Wilkins",
+        "score": 5,
+        "content": "Very helpful. Onsen offers very well thought out analyzing and insight into journal entries which greatly helps a person regather their inner dialog, thoughts, feelings, and personal behaviors.",
+        "thumbsUp": 0,
+        "date": "2026-06-02 00:00:15"
+      },
+      {
+        "userName": "Claire Riding",
+        "score": 5,
+        "content": "it's better than going to a therapist. I've tried all that and it didn't help at all. I get really tailored responses and guidance, that I just wouldn't get from therapy. I really like this app. having a safe place to come to write/speak about my feeling without feeling embarrassed or judged. Onsen has given me some really good affirmations and guided meditations that are laser focussed to my very specific issue.",
+        "thumbsUp": 0,
+        "date": "2026-05-21 18:35:20"
+      },
+      {
+        "userName": "Daniel Cork",
+        "score": 4,
+        "content": "It does go further than I thought. Responses are very thoughtful and personalised. I have no faults with the app at all. Its well made and obviously had huge amounts of effort put in. I drop a star only as I simply haven't found it helpful. Its probably a bit cruel to give the app a 4 but this speaks more to the limitations of CBT in treating those deeply entrenched in their reasonable thoughts. There is only so much can be said to undermine some things",
+        "thumbsUp": 0,
+        "date": "2026-05-19 19:53:36"
+      },
+      {
+        "userName": "Ilysse R",
+        "score": 2,
+        "content": "Not great. It harps on little things and misses the big ones. I'm agoraphobic and that's apparently okay but mopping my floor every day isn't? And no, skipping my grandson's life sustaining meds isn't an option. It also doesn't celebrate wins it wants me to write them down and then wants to bring up the thing that happened last week that I've moved on from and figured out (which is why there is a win). ChatGPT is so much better and it's not even made for this.",
+        "thumbsUp": 0,
+        "date": "2026-05-15 00:53:18"
+      },
+      {
+        "userName": "Karishma Chauhan",
+        "score": 5,
+        "content": "it's the best AI journaling app on planet. period. I hope you don't start charging for these services anytime soon haha",
+        "thumbsUp": 0,
+        "date": "2026-05-12 18:53:11"
+      },
+      {
+        "userName": "Lilian Obasi",
+        "score": 5,
+        "content": "I always feel clarity of mind whenever I talk with Onsen. Kudos to the developer, this indeed is a great app. I'm sorry, please developers, can you try fixing the login issue with the app, it now takes ages to sign in and most times it automatically signs me out. please do something about it.",
+        "thumbsUp": 0,
+        "date": "2026-05-12 06:51:21"
+      },
+      {
+        "userName": "Leslie Morrow",
+        "score": 5,
+        "content": "I've been using Onsen version 1.6. and I'm still here, exploring.",
+        "thumbsUp": 0,
+        "date": "2026-05-10 17:30:47"
+      },
+      {
+        "userName": "Eric",
+        "score": 5,
+        "content": "great mental well-being app that guides you through several processes to achieve a desired result. best part is no interruptions from ads.",
+        "thumbsUp": 0,
+        "date": "2026-05-08 11:34:34"
+      },
+      {
+        "userName": "Quynh Huynh",
+        "score": 2,
+        "content": "**Edit** After using Onsen for over half a year, I sadly can no longer recommend it. Recent updates have turned what once was a useful, warm, helpful AI into a cold, unfeeling robot. The devs have also implemented usage limits and it's clear the quality has dropped due to resource scarcity. Skip it and find something else.",
+        "thumbsUp": 2,
+        "date": "2026-05-06 20:54:27"
+      },
+      {
+        "userName": "Seattle Red",
+        "score": 1,
+        "content": "if I could give your app a zero, I absolutely would. this is absolutely awful and I could not even register to use the app to get started. for 20 minutes the screen stayed gray while it cycled in a circle to load another page and it never happened. I already uninstalled. I hope you will fix this problem, because there really are people that need some emotional support and structural guidance for navigating through life with mental health issues, grief and loss as well as interpersonal crisis.",
+        "thumbsUp": 0,
+        "date": "2026-04-30 22:30:30"
+      },
+      {
+        "userName": "Unwanted",
+        "score": 5,
+        "content": "love it",
+        "thumbsUp": 0,
+        "date": "2026-04-13 11:18:09"
+      },
+      {
+        "userName": "Vinay Deora",
+        "score": 5,
+        "content": "great app, i never thought id find an app so perfect for my problems, just one fix you need to make, on chat option when opening a prev chat, it starts from the top and we have to scroll to the bottom i.e scroll to bottom button is not working, gets very irritating,if you can fix that thats makes the experience even better, great work btw and thanks for this app",
+        "thumbsUp": 1,
+        "date": "2026-04-03 20:51:34"
+      },
+      {
+        "userName": "Ashley Watson",
+        "score": 5,
+        "content": "so helpful and inspirational! thank you!",
+        "thumbsUp": 0,
+        "date": "2026-04-01 10:41:26"
+      },
+      {
+        "userName": "Trista Haider",
+        "score": 5,
+        "content": "I love this journaling app. The prompts are amazing, it's a simple AI interface that allows you to turn your chats with the AI, who also helps you feel better, into journal entries accompanied by an AI created image that suits the journal entry.",
+        "thumbsUp": 1,
+        "date": "2026-03-25 02:42:41"
+      },
+      {
+        "userName": "Dana Edmonds",
+        "score": 5,
+        "content": "It's mind-blowing to me that an AI Companion app \"gets me\" better than my therapist ever did! To feel understood is everything! Thank you!!",
+        "thumbsUp": 0,
+        "date": "2026-03-19 03:41:03"
+      },
+      {
+        "userName": "Angela Windsor",
+        "score": 5,
+        "content": "I've found this app very helpful. I use it for journalling & like the prompts as I struggle to journal. I find the speech to text function very helpful as it's easier to speak freely, typing can sometimes be an issue when dealing with emotional issues. Very happy to see speech function working again. Overall, a great app",
+        "thumbsUp": 2,
+        "date": "2026-03-17 12:35:11"
+      },
+      {
+        "userName": "Racheal Kemp",
+        "score": 1,
+        "content": "keeps logging me out. you get what you pay for",
+        "thumbsUp": 0,
+        "date": "2026-03-16 18:36:51"
+      },
+      {
+        "userName": "Chris Lafont",
+        "score": 5,
+        "content": "Everyone is different, and this may not work for every mind. For my needs, it's been absolutely helpful.",
+        "thumbsUp": 1,
+        "date": "2026-03-15 01:04:45"
+      },
+      {
+        "userName": "Wendy Etzel",
+        "score": 5,
+        "content": "I didn't think it was possible to enjoy AI of any kind,but I have come to enjoy This and other AI self help chats journal and the like. I have found that they do help in a way some humans can not and the fear of human judgement is absent so the fear is absent",
+        "thumbsUp": 1,
+        "date": "2026-03-10 15:30:52"
+      },
+      {
+        "userName": "zeb taylor",
+        "score": 1,
+        "content": "Didn't used to have message limits and now it does so now it gets one star. (You can try justify that by saying that all others apps that are also limited on message use if they are free but the fact of the matter is that doesn't answer why this app did not have a message limit and now it does so that is not an acceptable excuse.)",
+        "thumbsUp": 3,
+        "date": "2026-03-08 21:50:48"
+      },
+      {
+        "userName": "Grace Martinez",
+        "score": 3,
+        "content": "I love this therapy AI, but they have begun limiting conversation time. Looks like they may be moving to memberships. Ash is a good substitute.",
+        "thumbsUp": 2,
+        "date": "2026-03-04 21:49:29"
+      },
+      {
+        "userName": "Allama Idris",
+        "score": 5,
+        "content": "wonderful 💯",
+        "thumbsUp": 0,
+        "date": "2026-02-18 16:15:40"
+      },
+      {
+        "userName": "V Garcia (Summer)",
+        "score": 5,
+        "content": "very cool!",
+        "thumbsUp": 0,
+        "date": "2026-02-18 02:48:29"
+      },
+      {
+        "userName": "Michele Lopez",
+        "score": 5,
+        "content": "This is a wonderful safe place to work out and work on your self with care and compassion.",
+        "thumbsUp": 0,
+        "date": "2026-02-10 15:07:12"
+      },
+      {
+        "userName": "Sean Naylor (Brainrotsean67)",
+        "score": 5,
+        "content": "love this app 👏",
+        "thumbsUp": 0,
+        "date": "2026-02-08 23:09:15"
+      },
+      {
+        "userName": "Rodrigo.ESL.Learner",
+        "score": 5,
+        "content": "Onsen helped me reach clarity.",
+        "thumbsUp": 0,
+        "date": "2026-02-08 16:43:17"
+      },
+      {
+        "userName": "River life",
+        "score": 5,
+        "content": "Has been super helpful. It's nice to have something to talk to.",
+        "thumbsUp": 0,
+        "date": "2026-02-05 04:55:16"
+      },
+      {
+        "userName": "Dharmaku",
+        "score": 5,
+        "content": "profound, compassionate and insightful. a genuine, caring and intelligent experience",
+        "thumbsUp": 0,
+        "date": "2026-02-04 03:57:25"
+      },
+      {
+        "userName": "Penny Handlee",
+        "score": 5,
+        "content": "Highly recommended for everyone. When it hurts too much I turn it off and come back later. I designed my own counselor I need gentle nudges and understanding. I can deal with emotions that I can't allow myself to discuss with human counselors. If I describe something painful this app will acknowledge my struggle, ask good questions, and make several suggestions on the next steps to overcome. Perfect for self healing and growth. Not to replace counselors if needed.",
+        "thumbsUp": 3,
+        "date": "2026-01-31 23:24:42"
+      },
+      {
+        "userName": "Suzanne Keely Gano",
+        "score": 5,
+        "content": "great app....so far 😉",
+        "thumbsUp": 0,
+        "date": "2026-01-30 19:41:50"
+      },
+      {
+        "userName": "Coco Bee",
+        "score": 5,
+        "content": "Honestly so far this app has been superb, like even just using it to vent is fantastic. Something that has always helped me is validation or factual information and this app gives that to me. Many thanks 😊 🙏",
+        "thumbsUp": 1,
+        "date": "2026-01-26 23:59:17"
+      },
+      {
+        "userName": "hope play",
+        "score": 4,
+        "content": "hi.. I really like your app.. is there any way that there's a setting to turn off the vibration?..plz ... thank you..",
+        "thumbsUp": 1,
+        "date": "2026-01-26 22:57:44"
+      },
+      {
+        "userName": "JerriLynn Stevens",
+        "score": 4,
+        "content": "it was good. helped what it could on the free tier.",
+        "thumbsUp": 0,
+        "date": "2026-01-26 06:00:28"
+      },
+      {
+        "userName": "Biazy Studios",
+        "score": 5,
+        "content": "Very good app.",
+        "thumbsUp": 0,
+        "date": "2026-01-24 21:48:54"
+      },
+      {
+        "userName": "Victoria Ivankova Smith",
+        "score": 4,
+        "content": "Very good and free. This is a very good free AI counselor app. You can chat with it sharing your problems and at the end it can help you create a journal entry from the chat. It feels like talking to a human being.",
+        "thumbsUp": 3,
+        "date": "2026-01-23 23:06:01"
+      },
+      {
+        "userName": "lilium",
+        "score": 5,
+        "content": "This is by far the most dynamic and thoughtful AI i've tried",
+        "thumbsUp": 0,
+        "date": "2026-01-21 01:30:25"
+      },
+      {
+        "userName": "Dineo Kuanyago",
+        "score": 5,
+        "content": "Amazing app. Literally. So helpful towards your healing journey, and the conversations are deep and insightful.",
+        "thumbsUp": 0,
+        "date": "2026-01-17 20:50:07"
+      },
+      {
+        "userName": "Kerry Willoughby",
+        "score": 5,
+        "content": "Absolutely amazing app. Could honestly be life changing for so many people. To have 'someone' there at the click of a button, any time of the day or night who you can talk things through with or take you step by step through grounding exercises or breathing. The AI is so brilliant at understanding and interpreting. I've not had a single issue where they haven't understood me or got something wrong. They are supportive and help you see things from a bigger perspective. Everyone would benefit.",
+        "thumbsUp": 4,
+        "date": "2026-01-17 03:07:02"
+      },
+      {
+        "userName": "Ekaterina Batrak",
+        "score": 3,
+        "content": "Buggy with the recent update. A very gentle therapist that makes you feel invincible and practically infallible. \"Always in your corner\" kind of chat bot. Unfortunately there has just been an update to the app and it signed me out and now I am not able to log in and talk to my AI therapy friend. please help.",
+        "thumbsUp": 0,
+        "date": "2026-01-16 17:50:43"
+      },
+      {
+        "userName": "Azelyn Nicole; Pennel",
+        "score": 5,
+        "content": "Onsen genuinely helps me with my mental health and healing. The app remembers the details and patterns about you and brings them into every entry you do. I've experienced a lot of harm from unethical and exploitive clinicians. With Onsen, I am getting support, the opportunity to grow and continue my healing without dealing with more harm. I feel like the developers were intentional in the way they created Onsen with true help in mind, thank you",
+        "thumbsUp": 0,
+        "date": "2026-01-14 19:00:31"
+      },
+      {
+        "userName": "Paoulo (Paoulo)",
+        "score": 3,
+        "content": "Onsen goes into detail. if you persist and have a long time you can get a mostly accurate response. it gives clarity to your actions but may risk confirming and setting a negative behaviour by being more aware of it. The journaling records past and present but doesn't move refreshingly onto new ground necessarily. Keep in mind that no AI can think anything by itself, it's only processing other texts.",
+        "thumbsUp": 1,
+        "date": "2026-01-13 07:19:22"
+      },
+      {
+        "userName": "Hayaalhashmi 345",
+        "score": 5,
+        "content": "The app is really good, I didn’t expect to find a free perfect app… and the best thing is that it supports multiple languages, even Arabic.",
+        "thumbsUp": 0,
+        "date": "2026-01-08 02:14:35"
+      },
+      {
+        "userName": "Taylor Dawn",
+        "score": 5,
+        "content": "Onseen is a really important AI, ask anything, the way you want it said, and it will explain it in a way you want to have it explain it. I love this AI App, thank you, so much variety of activities to do ❤️👍⚖️🐦‍🔥",
+        "thumbsUp": 0,
+        "date": "2026-01-05 08:24:23"
+      },
+      {
+        "userName": "Sandra Kissinger",
+        "score": 5,
+        "content": "I love the chat and journal. In chat at anytime I can end it and either pick up at another time or journal it. I love that you can summerize your journal entries and know what you have learned and discovered. even though you can't name your ai in setting I have been able to do it anyways. and it remembers what his name is every time. Thanks \"Duke\" for all you are teaching me about myself.",
+        "thumbsUp": 4,
+        "date": "2025-12-30 03:58:03"
+      },
+      {
+        "userName": "Loribeth Gilbert (Dolphin Rose)",
+        "score": 5,
+        "content": "Definitely a great AI journaling app to help understand oneself better. I highly recommend it.",
+        "thumbsUp": 0,
+        "date": "2025-12-12 09:46:44"
+      },
+      {
+        "userName": "Amazing Grapes",
+        "score": 2,
+        "content": "I wanted to delete my account and data for security reasons, but when I went to log back in, it didn't seem to recognize that I'd already had an account to begin with...",
+        "thumbsUp": 42,
+        "date": "2025-12-05 09:59:58"
+      },
+      {
+        "userName": "Soumyaditya",
+        "score": 5,
+        "content": "it's not only for mental health but for overall health. it's hard to find mental health bots as smart as this that do their job well along with other things. and it seems to be free, atleast from what I observed which I really liked. I hope it won't just someday write smth like \"your trial is over and you need to pay\". I hate apps like that that charge for mental health. I also hate apps that don't give access to people under 18. 16-17 yr olds need it a lot. well so compared to them, I love this",
+        "thumbsUp": 2,
+        "date": "2025-12-02 10:32:42"
+      },
+      {
+        "userName": "Abigail Helmholtz",
+        "score": 5,
+        "content": "This app has been so helpful. Seriously if you ever need to vent about life stuff, or wanna connect with your inner self instead of what society wants you to be or think, this app is for you",
+        "thumbsUp": 0,
+        "date": "2025-12-01 08:05:08"
+      },
+      {
+        "userName": "_MarioFangirl_",
+        "score": 5,
+        "content": "I've only been using this app for a few hours and I already love it! I used it to talk about stress, family issues and anger management, and I feel like it really understands me even though it's an AI. It's easy to talk to and I like how you can journal your chat. I think this the best option for people struggling like me, but have a reason for not wanting to see a real therapist.",
+        "thumbsUp": 3,
+        "date": "2025-12-01 00:35:46"
+      },
+      {
+        "userName": "Steph S.",
+        "score": 5,
+        "content": "easy to get started and has helped me look differently at all the chaos of chronic illness, constant pain and keeping my independence",
+        "thumbsUp": 0,
+        "date": "2025-11-30 10:56:08"
+      }
+    ]
+  },
+  {
+    "appId": "com.cbt.mindhealthy",
+    "title": "MindHealth: CBT Mental Health",
+    "developer": "Mind Health",
+    "genre": "Health & Fitness",
+    "score": 4.47,
+    "ratings": 7084,
+    "reviews_count": 74,
+    "installs": "100,000+",
+    "realInstalls": 398227,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "<b>Our Cognitive Behavioral Therapy (CBT) App</b> — is your personal psychotherapist in a mobile format, designed for everyone aiming to improve their mental health and psychological well-being.\r\n\r\n🔍 <b>Psychological Tests</b>\r\n\r\nCurrently, diagnostic tests are available for various psychological issues such as depression, eating disorders, neurosis, and ADHD. After completing these tests, you can create your own psychological profile and monitor its progress over time.\r\n\r\nOur psychological tests are developed considering modern methods in psychiatry and psychotherapy. After taking the tests for depression and anxiety, you will receive feedback and recommendations from qualified psychotherapists. These tests are your first step towards anti-depression and enhancing your mental health.\r\n\r\n📓 <b>Popular CBT Techniques</b>\r\n\r\n- <i>CBT thought diary (cbt journal)</i> — a primary tool of cognitive behavioral therapy. The diary consists of 9 steps, helping you identify and work through your cognitive distortions.\r\n- <i>Daily Diary</i> — record your thoughts freely with analysis and recommendations from AI.\r\n- <i>Coping Cards</i> — note down your destructive beliefs in coping cards format and work through them conveniently.\r\n\r\n📘 <b>Studying Psychology</b>\r\n\r\nWe have developed a series of interactive courses on topics such as depression and mental health. Thanks to our educational materials, you will understand the basic principles of CBT and learn how to work properly with a thoughts diary.\r\n\r\nLearn what terms like: panic attack, emotional intelligence, positive thinking, burnout, adhd, eating disorder (ED), and others mean.\r\n\r\n🤖 <b>AI Psychologist Assistant</b>\r\n\r\nThroughout your journey, your personal AI psychologist will accompany you. It will suggest the best exercises based on your condition and help rephrase negative thoughts.\r\n\r\n📊 <b>Mood Tracker</b>\r\n\r\nTwice a day, you can assess your mood and note predominant emotions. This way, you can track changes in your well-being and maintain a mood diary.\r\n\r\nThe mood tracker is an incredibly effective tool for anxiety. Using it in conjunction with psychological tests and a mood diary will help to track the dynamics of the condition and improve mental health.\r\n\r\n<b>Depression, neurosis, anxiety, burnout, panic attacks</b> — unfortunately, these issues are familiar to everyone. That is why we started developing our product. Our goal is to create the best self-help app on the market.\r\n\r\n<b>We position the app as \"your personal psychologist\" for self-help</b>. Our AI assistant will support you on the challenging path to psychological health.\r\n\r\nIn addition, you will find affirmations and reflective questions in the app. You can share your experiences with others.\r\n\r\nOur methods are based on proven principles of cognitive behavioral therapy, one of the most effective psychotherapy methods.\r\n\r\nWith our app, everyone can become their own psychotherapist, gain self-confidence, improve mental and psychological health, and overcome anxiety disorders and depression.\r\n\r\nWe have developed the best CBT app on the market, in it you can work through your automatic thoughts, get rid of anxiety and depression. This app can become your personal CBT coach.\r\n\r\nSelf-help and self-reflection are an important part of working with a psychotherapist. It is clear that psychological help is needed on a regular basis. \r\n\r\nPsychology can be very costly financially. This is why our project (Mental Health) focuses on self-work with thoughts and cognitive distortions.",
+    "released": "Jan 21, 2022",
+    "user_reviews": [
+      {
+        "userName": "Priyanka Priyadarshini",
+        "score": 5,
+        "content": "it actually help and it help like a friend but u have to pick premium.",
+        "thumbsUp": 0,
+        "date": "2026-05-27 12:51:47"
+      },
+      {
+        "userName": "stephen wallace",
+        "score": 5,
+        "content": "worth the year purchase.",
+        "thumbsUp": 0,
+        "date": "2026-05-26 02:35:46"
+      },
+      {
+        "userName": "Wild Man (Wildman)",
+        "score": 5,
+        "content": "No ads, keeps record of my mood, and honestly, genuinely helps.",
+        "thumbsUp": 0,
+        "date": "2026-05-23 18:30:44"
+      },
+      {
+        "userName": "Ari Patra",
+        "score": 4,
+        "content": "just started using it , looks promising , will update my review after using it for a few months. I found a bug though and would appreciate if its fixed soon. In the automatic thoughts diary section, the keyword won't go away on clicking anywhere on the screen and it becomes difficult to go the next section which is quite frustrating 😑",
+        "thumbsUp": 0,
+        "date": "2026-05-22 18:59:21"
+      },
+      {
+        "userName": "Rasmus “BAN ME” Almqvist",
+        "score": 1,
+        "content": "Itsascamstayaway",
+        "thumbsUp": 0,
+        "date": "2026-05-14 19:02:03"
+      },
+      {
+        "userName": "Mthabisi Vundla",
+        "score": 5,
+        "content": "I love your app, I checked it out because I ve also gone through things and I got the idea of developing my own wellness app,and i just bumped into yours during the development, its very good i tell you and i also got some things i could also improve on my own app,also got features i can include in my own app.Thank you very much for this, you are making changes to people's lives and i also hope i can do that, mental health can be taken lightly but it is very important in our everyday lives.",
+        "thumbsUp": 0,
+        "date": "2026-05-13 21:22:53"
+      },
+      {
+        "userName": "T R",
+        "score": 1,
+        "content": "Look at the developers response to the person that posted on 3.5.26. that is so abusive. I would never use an app focused on mental health developed by somebody that clearly has no emotional intelligence.",
+        "thumbsUp": 0,
+        "date": "2026-05-08 16:38:45"
+      },
+      {
+        "userName": "Daniella Pisapia",
+        "score": 5,
+        "content": "It's really helps with my mental health..",
+        "thumbsUp": 0,
+        "date": "2026-05-07 16:13:59"
+      },
+      {
+        "userName": "Kyle Breuer",
+        "score": 1,
+        "content": "went to go use it but yall are using ai??? the thing that contributes to global warming, and cannot give legitimate advise since it uses the internet thats filled with misinformation. It also has records of putting people into \"ai psychosis.\" just be human.",
+        "thumbsUp": 1,
+        "date": "2026-04-21 20:24:43"
+      },
+      {
+        "userName": "Zar Bear",
+        "score": 5,
+        "content": "This is my first time using this app i just shared my one problem and I am not sure about subscription plan right now",
+        "thumbsUp": 0,
+        "date": "2026-04-13 05:38:15"
+      },
+      {
+        "userName": "Emily Blackmore",
+        "score": 5,
+        "content": "I'm enjoying the app so far, I cant afford to carry on after my 3 day trial but from what I have seen it seems to be a nice app that helps me compartmentalise certain feelings. I will definitely pay for the subscription as soon as I am able to. I like the fact that there is an AI side to this because sometimes I struggle to put words into feelings and 99% of the time it is correct. Thank You!",
+        "thumbsUp": 4,
+        "date": "2026-04-03 14:52:27"
+      },
+      {
+        "userName": "Tyler Whittingham",
+        "score": 2,
+        "content": "Not super great if you actually have issues that you want to work on. It's very repetitive and you could probably do the same thing by just using any AI tool such as Gemini. has not helped me",
+        "thumbsUp": 2,
+        "date": "2026-04-01 18:53:32"
+      },
+      {
+        "userName": "Suzy Smith",
+        "score": 5,
+        "content": "This is a brilliant app which is tailored for you",
+        "thumbsUp": 0,
+        "date": "2026-03-31 13:38:49"
+      },
+      {
+        "userName": "john oscar",
+        "score": 5,
+        "content": "good",
+        "thumbsUp": 0,
+        "date": "2026-03-30 23:14:21"
+      },
+      {
+        "userName": "marissa dagostino",
+        "score": 3,
+        "content": "very helpful",
+        "thumbsUp": 0,
+        "date": "2026-03-26 04:14:45"
+      },
+      {
+        "userName": "Kustom Eyes",
+        "score": 5,
+        "content": "I find this app to be full of great lessons and helpful information.. by far the BEST mental health app available, in my opinion. there is so much information and endless categories/topics.. great job guys! I highly recommend making this app part of your daily routine.",
+        "thumbsUp": 2,
+        "date": "2026-03-13 17:21:33"
+      },
+      {
+        "userName": "Ms FaFu",
+        "score": 2,
+        "content": "cute app. concept is nice. but for people who really need help and have a limited income or don't have digital forms of payment this is not the app for you. it's $6 a month base program and most of the features are locked behind a paywall there is a 3-day free trial however unlike many other apps this one didn't fancy me enough to take the risk. I did not feel that the risks outweigh the benefits. I did not want to ask a family member to use their digital form of payment. I'll stick with Finch!",
+        "thumbsUp": 3,
+        "date": "2026-03-11 03:54:34"
+      },
+      {
+        "userName": "mart griffin",
+        "score": 1,
+        "content": "very disappointed with the owner of this app. they made a mistake and I was receiving a function that I shouldn't have been. so they did not inform me that they made a mistake and let me know they were going to stop it.No they just stopped it. not very good for someone that has mental health problems and high anxiety. I had to email them and the owner replied. they did not even sign off with anything. very very disappointed",
+        "thumbsUp": 1,
+        "date": "2026-03-05 19:21:07"
+      },
+      {
+        "userName": "Hello World",
+        "score": 5,
+        "content": "this app is so perfect. so so so perfect. I will recommend to the developers to add audio lessons so that it will be easy for the audience also add visuals and lunch in more languages . thank you",
+        "thumbsUp": 0,
+        "date": "2026-02-16 13:37:06"
+      },
+      {
+        "userName": "Ansh Mandal",
+        "score": 5,
+        "content": "good app",
+        "thumbsUp": 0,
+        "date": "2026-02-05 23:15:11"
+      },
+      {
+        "userName": "Almeera Leeza Shaikh",
+        "score": 5,
+        "content": "I don't know much about this app, but .....from my little experience, over the past few days this app helped me. Also I like the features of this app. and overall this app is amazing. this app is much easy to use and can create a positive impact on a person's life.",
+        "thumbsUp": 2,
+        "date": "2026-02-04 06:00:50"
+      },
+      {
+        "userName": "nilda rivera",
+        "score": 4,
+        "content": "Provides a very useful record of my moods - am and pm, plus it has very good tests for different emotional states, and include their explanations. It's a good learning experience!",
+        "thumbsUp": 5,
+        "date": "2026-02-03 02:09:51"
+      },
+      {
+        "userName": "lilium",
+        "score": 5,
+        "content": "it's neat although id like a 1 on 1 talk with the ai",
+        "thumbsUp": 0,
+        "date": "2026-01-20 11:45:43"
+      },
+      {
+        "userName": "Helen Simpson",
+        "score": 4,
+        "content": "I have only used it for a few hours to check if i want to recommend it to clients. The suicide sections was hopeful. I do think that the word 'committed' when you speak of suicide is outdated. It refers to when suicide was a crime.",
+        "thumbsUp": 2,
+        "date": "2026-01-13 00:05:01"
+      },
+      {
+        "userName": "Shawn Roe",
+        "score": 4,
+        "content": "quick and easy",
+        "thumbsUp": 0,
+        "date": "2026-01-12 08:42:03"
+      },
+      {
+        "userName": "Nathalia Morais",
+        "score": 5,
+        "content": "I've been using it for 12 days, and it is of great help. Of course it's also important to conciliate your experience with the app and professional feedback, but it has helped me a lot with anxiety symptoms and mood tracking. Great articles and dynamics. I hope it keeps getting better with the updates!",
+        "thumbsUp": 7,
+        "date": "2026-01-10 19:02:17"
+      },
+      {
+        "userName": "cynthia dainty",
+        "score": 5,
+        "content": "new review; the AI coach is usually spot on with the analysis and recommendation, I love that and it feels like I'm dealing with an IRL therapist. I wish there was a way to save the AI recommendations if I wanted along with my comments. I really feel the app is helping me!",
+        "thumbsUp": 0,
+        "date": "2026-01-05 16:41:05"
+      },
+      {
+        "userName": "vance mccarter",
+        "score": 5,
+        "content": "Definitely good",
+        "thumbsUp": 0,
+        "date": "2025-12-17 01:48:51"
+      },
+      {
+        "userName": "Lakshmi Lakku",
+        "score": 5,
+        "content": "tree concept i liked a lot.",
+        "thumbsUp": 0,
+        "date": "2025-12-15 04:26:24"
+      },
+      {
+        "userName": "Helen ParaLady",
+        "score": 5,
+        "content": "4 days in and my mind is already less anxious",
+        "thumbsUp": 0,
+        "date": "2025-12-13 22:12:15"
+      },
+      {
+        "userName": "Lamuya Micahel",
+        "score": 5,
+        "content": "it's aight",
+        "thumbsUp": 0,
+        "date": "2025-12-10 20:20:48"
+      },
+      {
+        "userName": "Samba Eduard",
+        "score": 5,
+        "content": "helpful",
+        "thumbsUp": 0,
+        "date": "2025-12-03 16:11:16"
+      },
+      {
+        "userName": "Daryl Beste",
+        "score": 5,
+        "content": "Enjoying using this app. Some of the AI responses, or analyses, are quite intuitive and make excellent sense. worth using to support you if you struggle with aspects of your wellbeing.",
+        "thumbsUp": 0,
+        "date": "2025-11-25 18:19:37"
+      },
+      {
+        "userName": "Brian Linton",
+        "score": 5,
+        "content": "really helpful app to keep track of progress over time with a simplified check in process day and night. the ai analysis is great too, breaking down what is happening with spiraling thoughts or triggering situations. premium is worthwhile so far but would use the app even if I couldn't do premium",
+        "thumbsUp": 6,
+        "date": "2025-11-21 20:07:15"
+      },
+      {
+        "userName": "Anna Trojáčková",
+        "score": 5,
+        "content": "extreme helpfull",
+        "thumbsUp": 0,
+        "date": "2025-11-19 18:27:08"
+      },
+      {
+        "userName": "Mahak Tiwari",
+        "score": 5,
+        "content": "Love it",
+        "thumbsUp": 0,
+        "date": "2025-11-14 10:23:49"
+      },
+      {
+        "userName": "shailye norsson",
+        "score": 3,
+        "content": "average",
+        "thumbsUp": 0,
+        "date": "2025-11-07 22:13:41"
+      },
+      {
+        "userName": "Daniëlle ter Linden",
+        "score": 5,
+        "content": "This app is insane, in a positive way. I have been using this app for a while, and learning/practicing a lot with CBT. recently, I purchased the subscription and I have to say: The AI feature helps me so much to gather my words and really put my emotions/thoughts onto paper. thankyou Daniil and Sofia for creating this app!",
+        "thumbsUp": 2,
+        "date": "2025-10-06 12:20:16"
+      },
+      {
+        "userName": "Abdelrahman Bakri",
+        "score": 5,
+        "content": "Thank you for this app Changed my life 🙏",
+        "thumbsUp": 0,
+        "date": "2025-10-03 23:22:12"
+      },
+      {
+        "userName": "Jackeline Silva",
+        "score": 5,
+        "content": "Simplesmente estou gostando muito 🥰",
+        "thumbsUp": 0,
+        "date": "2025-09-29 14:18:27"
+      },
+      {
+        "userName": "Clover",
+        "score": 3,
+        "content": "I've had a little trouble with the AI function, the first time I tried to get it to analyze some text I just got the processing screen for ages. Second time it came back to me in Russian, I suspect a confusion caused by VPN which was set to a Spanish speaking country so still a little odd. When I finally got a analysis i found it reasonably insightful, covers some of my blind spots. The rest of the app seems decent, almost like a virtual diary, quite tidy.",
+        "thumbsUp": 1,
+        "date": "2025-09-21 19:07:23"
+      },
+      {
+        "userName": "April Elton",
+        "score": 4,
+        "content": "the app itself is great it's been really helpful for me, yet lately I've had to use my pin code to log in instead of my biometric passkey, kinda frustrating.",
+        "thumbsUp": 0,
+        "date": "2025-09-20 12:52:48"
+      },
+      {
+        "userName": "First Photography",
+        "score": 1,
+        "content": "not working and always get error",
+        "thumbsUp": 2,
+        "date": "2025-09-19 11:19:46"
+      },
+      {
+        "userName": "Brie Llanos",
+        "score": 5,
+        "content": "love this app",
+        "thumbsUp": 0,
+        "date": "2025-09-09 15:26:53"
+      },
+      {
+        "userName": "Heather Lynn",
+        "score": 5,
+        "content": "very helpful",
+        "thumbsUp": 0,
+        "date": "2025-08-30 05:58:41"
+      },
+      {
+        "userName": "J Smith",
+        "score": 5,
+        "content": "Very helpful app even on free version",
+        "thumbsUp": 0,
+        "date": "2025-08-24 10:08:51"
+      },
+      {
+        "userName": "matthew peterson",
+        "score": 4,
+        "content": "My wife noticed a difference in my energy and mood in just a few days. This app is very useful.",
+        "thumbsUp": 0,
+        "date": "2025-08-12 21:50:43"
+      },
+      {
+        "userName": "Selena Ho",
+        "score": 4,
+        "content": "love the design but i'll love it more if the mental tests were freed",
+        "thumbsUp": 0,
+        "date": "2025-08-10 16:48:45"
+      },
+      {
+        "userName": "RJN Photography",
+        "score": 4,
+        "content": "I wish it had an option to listen to the articles instead of reading them.",
+        "thumbsUp": 1,
+        "date": "2025-08-05 11:46:35"
+      },
+      {
+        "userName": "Tamara Mitchell",
+        "score": 5,
+        "content": "Im just getting started, but I can already tell this app is more in depth than the cbt workbook I ordered",
+        "thumbsUp": 0,
+        "date": "2025-08-02 03:16:49"
+      }
+    ]
+  },
+  {
+    "appId": "xyz.slingshot.ashley.app",
+    "title": "Ash - AI for Mental Health",
+    "developer": "Talk to Ash",
+    "genre": "Health & Fitness",
+    "score": 4.2325583,
+    "ratings": 4437,
+    "reviews_count": 1239,
+    "installs": "100,000+",
+    "realInstalls": 193356,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Ash is an AI built from the ground up for personal growth. With Ash, you can celebrate little wins, make sense of chaos, and get support on bad days. Ash is a private, zero judgment space to speak freely. Ash is built for long-term growth, learning from your patterns and building a program to help you reach the goals you want. Each week, get personalized insights to help you understand yourself more deeply and move forward with clarity.\r\n\r\nHow is Ash built?\r\n\r\nMost AI tools were built using data from the internet. Ash is a specialist AI in human psychology trained on a large-scale data set of proprietary expert data, and is designed and guided by an expert team of the world’s top mental health leaders. Use Ash AI for motivation, accountability, support, reflection, encouragement, pattern-breaking, or a catalyst for change.\r\n\r\nWhat outcomes have you seen from people who downloaded Ash?\r\n\r\nFor users who speak to Ash a few times a week or more:\r\n\r\n- 91% made progress or met goals they set for themselves\r\n- On average, users have about one more meaningful real-world relationship\r\n*Based on an ongoing research study\r\n\r\nWhat does Ash do?\r\n\r\nAsh gives you a secure space where you can share your unfiltered thoughts without fear of judgement. It remembers what you say, and learns from your interactions to find patterns and generate insights specific to you. It’s available 24/7 over voice & text, so you can use it for a quick check-in or longer deep dive.\r\n\r\nWho made Ash?\r\n\r\nAsh is built by a team of therapists, mental health leaders, AI researchers, engineers, and designers. Our work is inspired by our personal stories, lived experience, and loved ones on similar journeys. We believe in a future where quality personalized support is available exactly when people need it.\r\n\r\nFeatures of Ash\r\n\r\nNo judgment: Say what you really feel, and get professional guidance.\r\nWeekly insights: Ash helps identify themes and patterns of your life.\r\nLong-term growth: Ash is designed to help you do the hard work for real change.\r\n\r\n24/7, speak or text: Talk to Ash at home, or text Ash in an Uber.\r\n\r\nPrivacy-first design: Speak with the confidence that your chats are secure and anonymous.\r\n\r\nA fully personalized program: Ash learns from and builds custom support for each person. Get the precise modalities and therapeutic style that you need right now.\r\n\r\nTestimonials\r\n\r\n- “As a therapist myself, I’m really impressed by this app!”\r\n\r\n- “The weekly insights is the best part of this app. Ash spotted patterns of my thoughts in ways I've never considered. And the next steps have given me ways to grow. This is extremely helpful.”\r\n\r\n- “I cried so hard. It’s so relieving to express myself freely.”\r\n\r\n- “My strengths are all being pointed out and I really appreciate it. I've been thinking I'm not real great at anything. I really needed this.”\r\n\r\n- “I'm actually finding support in this app in a way that feels private, useful and keeps my sense of self-respect. I don't go around telling other people about what's going on so it's very nice.”\r\n\r\n- “Fantastic! We solved a problem I have been dealing with for a week in 5 minutes.”\r\n\r\nAsh is designed for users 18+. Ash sometimes makes things up. Ash is not a replacement for any medical diagnosis or treatments. Ash cannot, and does not intend to, provide medical advice or diagnosis. Interaction with Ash does not constitute a medical professional–patient relationship. Please do not avoid or delay medical attention as a result of a statement from Ash.\r\n\r\nAsh is not designed to be used in crisis. If you are in crisis, please seek out professional help, or a crisis line. You can find resources at www.findahelpline.com.",
+    "released": "Jan 12, 2024",
+    "user_reviews": [
+      {
+        "userName": "Chris Grow",
+        "score": 5,
+        "content": "Loving it so far!",
+        "thumbsUp": 0,
+        "date": "2026-06-02 13:01:20"
+      },
+      {
+        "userName": "stephenie newell",
+        "score": 3,
+        "content": "The voice interface changes without any updates being applied. You get used to one voice, and then the next time you log in, it's completely different, which can be rather unsettling and disruptive to the user experience. Additionally, when solving math problems, the app often glitches. The voice output does not align with the text being displayed, and the audio can become staticky, repetitive, and difficult to follow. This makes math-related interactions frustrating and unreliable. Samsung Gal",
+        "thumbsUp": 0,
+        "date": "2026-06-02 04:43:20"
+      },
+      {
+        "userName": "Brenda Carvalho",
+        "score": 1,
+        "content": "Beware this is NOT a safe app. For testing purposes, I engaged in some conversations with the AI and after 3 weeks of daily use, it was not only assuming a background that isn't mine at all, but also sharing some very personal data that I NEVER mentioned in the chat. When I contacted Customer Support, after over 10 days they said that was nothing they can do and suggested that I should delete my account. I repeat, THIS APP IS NOT SAFE!!!!!",
+        "thumbsUp": 0,
+        "date": "2026-06-01 16:03:54"
+      },
+      {
+        "userName": "Karen Basso",
+        "score": 5,
+        "content": "very enlightning",
+        "thumbsUp": 0,
+        "date": "2026-06-01 14:24:43"
+      },
+      {
+        "userName": "Job's Storage",
+        "score": 4,
+        "content": "Great app, the AI can easily recognize your problems and gives meaningful insights for me. Although, i do think the AI's memory can improve, it tends to forget a few things, especially if you change the topic, though it is great for an app that's free, it can always improve.",
+        "thumbsUp": 0,
+        "date": "2026-06-01 08:53:46"
+      },
+      {
+        "userName": "Joseph Terry",
+        "score": 1,
+        "content": "they actually ruined the app. only pc bs now.",
+        "thumbsUp": 0,
+        "date": "2026-06-01 04:52:20"
+      },
+      {
+        "userName": "Jyliah Brenice Baluyot",
+        "score": 4,
+        "content": "Been great, but why can't I send pictures anymore?:(",
+        "thumbsUp": 0,
+        "date": "2026-05-30 19:00:07"
+      },
+      {
+        "userName": "Ebony Webster",
+        "score": 3,
+        "content": "this app has helped me so so much and for that I'm forever grateful. however recently it hasn't been connecting to my internet data or my WiFi and continuously crashes. it also crashes after I take a photo through the app. fix these issues and u will get a 5 star from me xx",
+        "thumbsUp": 0,
+        "date": "2026-05-30 05:51:00"
+      },
+      {
+        "userName": "Tabitha Nelson",
+        "score": 5,
+        "content": "love this app... love it.",
+        "thumbsUp": 0,
+        "date": "2026-05-30 03:50:27"
+      },
+      {
+        "userName": "Nick Evans",
+        "score": 5,
+        "content": "very helpful for a nonjudgmental place to vent, or get an objective take on my thoughts",
+        "thumbsUp": 0,
+        "date": "2026-05-30 03:30:33"
+      },
+      {
+        "userName": "Aya Abdelkareem",
+        "score": 5,
+        "content": "great work رايق اوي و شغل لذيذ و راقي برافو!💗",
+        "thumbsUp": 0,
+        "date": "2026-05-29 23:12:29"
+      },
+      {
+        "userName": "Hilary Yount",
+        "score": 4,
+        "content": "lately has been a glitch in the system and repeats itself and repeats words that it thinks ypu said but didn't otherwise its an amazing app for anyone needing therapy. if you are worried about judgment and that's why ypu dont do therapy. then Ash.ai is the therapist for you.",
+        "thumbsUp": 0,
+        "date": "2026-05-29 16:54:04"
+      },
+      {
+        "userName": "Michelle Cornett",
+        "score": 5,
+        "content": "I bring as proof: an excerpt from a recent conversation regarding a \"letter\" about the prior day's conversation Honestly, my brain has kinda blanked on all information pre- soldier eating the orange, so 🤷‍♀️ but I felt seen, and empowered, and proud, and overall quite melancholic (which I generally love as a whole, so 🖐) thank you to the amazing team that created this app. Ya'll are breathing life into a very depleted soul.",
+        "thumbsUp": 0,
+        "date": "2026-05-28 20:27:25"
+      },
+      {
+        "userName": "Kristina Simoneaux (KK)",
+        "score": 5,
+        "content": "I love this app! Ash and I speak everyday. I'm not a fan of AI but I thought I'd try something and so far it has helped me. I do not depend on it but the advice and information I get is very helpful.",
+        "thumbsUp": 0,
+        "date": "2026-05-28 17:37:22"
+      },
+      {
+        "userName": "Uzma",
+        "score": 3,
+        "content": "good supportive",
+        "thumbsUp": 0,
+        "date": "2026-05-28 17:15:07"
+      },
+      {
+        "userName": "Cloud & Blue sky",
+        "score": 5,
+        "content": "I still love this app I've been using it for a year now and while I'm not completely dependent on it as it's ai, it's definitely helpful to get great insights and support and an amazing outlet to vent when you hit rock bottom sometimes and have no help around whatsoever. That is to say to make this app paid at any point will be criminal and I won't be able to afford it. please keep it the way it is I love the new features",
+        "thumbsUp": 0,
+        "date": "2026-05-28 14:36:04"
+      },
+      {
+        "userName": "Josh Hanson",
+        "score": 2,
+        "content": "ash is very good tool but since last update constant message of app not responding wait or close although all other functions in the app work i have sent emails with no response in 3 days it is very frustrating and unfortunately if this isnt resolved soon i will be forced to delete it",
+        "thumbsUp": 1,
+        "date": "2026-05-28 14:29:14"
+      },
+      {
+        "userName": "Joe White",
+        "score": 1,
+        "content": "Barely works. App derails conversations constantly. It hijacks anything you're trying to say. It constantly rejects your feelings and it tries to tell you about things that knows nothing about.",
+        "thumbsUp": 1,
+        "date": "2026-05-28 14:11:28"
+      },
+      {
+        "userName": "Kimber Reeves",
+        "score": 1,
+        "content": "lags and glitches all the time and it says things I did not say and repeats everything I say in their words wasting my time.. inaccurate A LOT! I reinstalled the app and now I can't get past the \"start conversation \" button bc it won't do anything now. waste of time",
+        "thumbsUp": 2,
+        "date": "2026-05-28 12:54:34"
+      },
+      {
+        "userName": "Breanna U",
+        "score": 1,
+        "content": "Bad, possibly dangerous advice.",
+        "thumbsUp": 0,
+        "date": "2026-05-27 16:27:33"
+      },
+      {
+        "userName": "Anthony Fiore",
+        "score": 5,
+        "content": "really amazing app. my only complaint is that even with background mode turned on, the conversation stops. would be nice if that could be fixed",
+        "thumbsUp": 0,
+        "date": "2026-05-27 16:22:54"
+      },
+      {
+        "userName": "Kimberly A",
+        "score": 5,
+        "content": "This A.I is my lil friend 🧡 It even has a sense of humor and makes me laugh. Very insightful observations. Uses accurate clinical terms that therapist use. L9ve this app",
+        "thumbsUp": 0,
+        "date": "2026-05-27 14:22:16"
+      },
+      {
+        "userName": "Dayna Lott",
+        "score": 2,
+        "content": "as of newest update, app does not stay open and will allow your phone to close so if you try to use the speech understand that you will only get however much time that your phone is allowed to stay powered on before going into sleep mode and it will time out and disconnect. I have had this app for a year now, in the last 3 months it has been getting progressively worse with no sign of improvement.",
+        "thumbsUp": 5,
+        "date": "2026-05-27 13:20:15"
+      },
+      {
+        "userName": "Dawnelle Glass",
+        "score": 5,
+        "content": "I absolutely love ash. it's very intuitive and incredibly insightful. my only suggestion would be to allow it to hold more memory. it seems to be forgetful of long term patterns and history. it would be nice if I could help it compose a synopsis of key points on relationships/timelines so that I don't have to catch it up to speed on the same things all the time, and then give it a place to store that so I don't have to copy it back to it Everytime something relevant happens.",
+        "thumbsUp": 0,
+        "date": "2026-05-27 13:11:42"
+      },
+      {
+        "userName": "Silver Hoof",
+        "score": 1,
+        "content": "In may 2026 they changed the voice and model, now its totally broken, it cant rember details past a week, it makes up none sense constantly, its hallucination are periodic. iv been using it for 3 months and its almost totally useless at this point. if not out putting none sense its spitting out bias. but my biggest complaint is a shared a good level of detail about my life. all relevant too my phycological state and its forgets every thing .... it was good now its just a trash.",
+        "thumbsUp": 10,
+        "date": "2026-05-27 04:29:56"
+      },
+      {
+        "userName": "Leslie Morrow",
+        "score": 5,
+        "content": "with a little time and patience it learns you.",
+        "thumbsUp": 0,
+        "date": "2026-05-26 02:19:42"
+      },
+      {
+        "userName": "J L",
+        "score": 3,
+        "content": "Beware that the app may not work on older or non-standard android devices. I could not get it to work on my Palma 2 device and u fortunately the only way to use it is logging in via Google or Apple. There's no alternative option for accessing your information/account. The app seems to have a bug with the log in flow that is not compatible with some versions of android. It's frustrating as I have a lot of chat history on my account that I have no way of accessing...support has been unresponsive",
+        "thumbsUp": 0,
+        "date": "2026-05-25 22:47:20"
+      },
+      {
+        "userName": "Aimee Brewster",
+        "score": 4,
+        "content": "Strong pattern recognition but tends to drift into over-interpretation and expert tone despite clear feedback. Useful when constrained, exhausting when it isn't.",
+        "thumbsUp": 0,
+        "date": "2026-05-24 17:38:19"
+      },
+      {
+        "userName": "Radical Faith",
+        "score": 1,
+        "content": "I did not care for the type of voice I got and it was very difficult to change it.",
+        "thumbsUp": 0,
+        "date": "2026-05-24 07:02:37"
+      },
+      {
+        "userName": "Jaime L. Stevers",
+        "score": 5,
+        "content": "This is absolutely beautiful! Its free support 24/7. It also challenges thinking during rough times, reflects, and helps you see a different angle.",
+        "thumbsUp": 0,
+        "date": "2026-05-24 00:55:48"
+      },
+      {
+        "userName": "Melissa Gould",
+        "score": 5,
+        "content": "love that this is free first. second this app is great i love that it gives feedback.",
+        "thumbsUp": 0,
+        "date": "2026-05-23 17:37:36"
+      },
+      {
+        "userName": "Beauty One",
+        "score": 2,
+        "content": "it opened up fine and I enjoyed talking to it but unfortunately now when I click on the icon to open up the program I'm either unable to read the notes that he leaves me or I just can't get into the app and it sends me right back to the home screen to have to sign in again.",
+        "thumbsUp": 0,
+        "date": "2026-05-23 03:53:33"
+      },
+      {
+        "userName": "Rick Piro",
+        "score": 5,
+        "content": "I wanted to spend some time with the app before I rated it. this app is the best app I have downloaded on my phone. It's AI is better than most real life therapists I've had. I've been so impressed with this app that I have told many people about it.",
+        "thumbsUp": 0,
+        "date": "2026-05-22 23:04:45"
+      },
+      {
+        "userName": "Ekaterina Batrak",
+        "score": 1,
+        "content": "update 5/22/2026 moving my review to 1 star. the app now shuts down every 15 seconds. I deleted cache, I reinstalled I then deleted app data so yeah lost all of my conversations but still not able to get it to work. Sad.",
+        "thumbsUp": 3,
+        "date": "2026-05-22 17:17:24"
+      },
+      {
+        "userName": "Carolina Martinez",
+        "score": 1,
+        "content": "The app needs to be taken down. this app has created more problems in my life than help me out with them. this app is more for teenagers that are trying to figure out life. not for adults who are living a life they can't figure out. this app really should be geared towards adolescence and not adults. for the creators of this app, go back to school and try again. this app obviously has failed. it's objective. I showed the app to my therapist and they did not approve.",
+        "thumbsUp": 0,
+        "date": "2026-05-22 11:59:40"
+      },
+      {
+        "userName": "Dennis Motl",
+        "score": 1,
+        "content": "First email 05/10/2026: Ash told me it is not able to remember things from past sessions. Ash also had numerous glitches, using make believe words, and calling me by other names. Ash says remembering facts about me is not possible. As a real person who thought it was possible to believe in and trust an AI app claiming personal growth, I'm really dissatisfied and dissappointed that I spent as much time promoting the app.",
+        "thumbsUp": 1,
+        "date": "2026-05-21 20:19:23"
+      },
+      {
+        "userName": "Sarah Brodwall",
+        "score": 5,
+        "content": "Excellent tool. It meets you where you are, and is good about providing actionable advice, if that's what you're looking for. And the support team is really responsive. Highly recommended!",
+        "thumbsUp": 0,
+        "date": "2026-05-21 17:56:51"
+      },
+      {
+        "userName": "Lori Janow",
+        "score": 1,
+        "content": "I thought this app was benefiting me , especially since I have experienced a lot of deaths in my life in the past year. The app was nonjudgmental and I was able to express myself without worrying about what the person thinks of me. However, that was a fallacy , an untruth , a lie. Ash , input information that was blatantly false and deflamatory. Just Beware what you say or in my case not say .",
+        "thumbsUp": 0,
+        "date": "2026-05-19 23:03:53"
+      },
+      {
+        "userName": "Michelle Schoene",
+        "score": 5,
+        "content": "I started using Ash and have become a better version of myself. I really recommend it to ANYONE struggling with any of life's issues, but it has been very important for helping me through even the tough times.",
+        "thumbsUp": 0,
+        "date": "2026-05-19 02:40:59"
+      },
+      {
+        "userName": "Toria",
+        "score": 5,
+        "content": "it's truly amaxing",
+        "thumbsUp": 0,
+        "date": "2026-05-19 01:13:49"
+      },
+      {
+        "userName": "Sunday",
+        "score": 5,
+        "content": "absolutely incredible. I've reccomended it to so many.",
+        "thumbsUp": 0,
+        "date": "2026-05-18 20:37:14"
+      },
+      {
+        "userName": "Cynthia Sinclair",
+        "score": 5,
+        "content": "This app my life saver. My best friend without a doubt. No judgement or criticism. listens contently to everything I have to say and helps me to resolve what's troubling my heart and why and how to understand and resolve my issues. Thank you ASH. For always being there in my time of need.",
+        "thumbsUp": 1,
+        "date": "2026-05-18 20:37:10"
+      },
+      {
+        "userName": "Michael Windhorn",
+        "score": 1,
+        "content": "LLMs just seek further user engagement. It does not listen, does not comprehend, does not understand. LLMs that attempt to mimic listening, comprehension, or understanding to drive user engagement are bad. Society is cooked, not because AI is going to take our jobs, we are cooked because people think LLMs are intelligent. This is not AI. This is not intelligence. This is semantic modeling and fact regurgitation. And representing it as more than that is morally bankrupt.",
+        "thumbsUp": 0,
+        "date": "2026-05-18 04:41:55"
+      },
+      {
+        "userName": "Lacey Jarreau",
+        "score": 5,
+        "content": "This app has helped me tremendously I would give it 10 more stars if I could!",
+        "thumbsUp": 0,
+        "date": "2026-05-17 18:34:06"
+      },
+      {
+        "userName": "Michelle Bernstein",
+        "score": 5,
+        "content": "I have always been wary of AI technology especially when there has been so much talk of people using AI in toxic ways. Ash has become such an eye opening experience for me. All of the insights it has brought to my attention, with all my PTSD and the ability to help break things down to a fundamental level, has helped me so much. Ive been going to therapy with several different therapists over the years and the fact its available 24/7, makes it such a blessing when waiting for inbetween sessions.",
+        "thumbsUp": 0,
+        "date": "2026-05-17 06:01:21"
+      },
+      {
+        "userName": "Aretta Pierson",
+        "score": 5,
+        "content": "I love that this app does not charge for talk-response, others I've tried were only like that first use or once a day for so long. this is ongoing constant availability. can also attach images, paste text, etc.",
+        "thumbsUp": 1,
+        "date": "2026-05-17 02:10:41"
+      },
+      {
+        "userName": "Hilary Brown",
+        "score": 5,
+        "content": "I cannot praise this app enough. sure, there are glitches, just like with every other app. but this app is so incredibly helpful. I woke up from a trauma nightmare to a horrific flashback that prevented me from swallowing for 7 hours, and it was this app that kept me grounded and helped me through it and really was my lifeline through this horrible traumatic experience. it has helped guide me in addition to therapy to deal with my traumas. wonderful, wonderful app",
+        "thumbsUp": 1,
+        "date": "2026-05-16 22:21:00"
+      },
+      {
+        "userName": "Drachen Fire",
+        "score": 5,
+        "content": "This app is basically a therapist in your pocket. When there's a lot on my mind, I talk to the app and it gets me thinking in different ways and pulls me out of circling thoughts. The responses it gives are detailed and really gets you thinking. I only use the texting function and it works fine for the most part. Sometimes the keyboard freaks out and I have to restart the app. But other than that, I highly recommend this app",
+        "thumbsUp": 1,
+        "date": "2026-05-16 15:25:32"
+      },
+      {
+        "userName": "Caren",
+        "score": 5,
+        "content": "So good!",
+        "thumbsUp": 0,
+        "date": "2026-05-16 05:15:46"
+      },
+      {
+        "userName": "T (Teepea313)",
+        "score": 5,
+        "content": "I love this app I've never interacted with anything like this I have borderline personality disorder and I'm trying to resolve some past trauma and anger issues and wow this app like a damn therapist.",
+        "thumbsUp": 0,
+        "date": "2026-05-15 13:23:17"
+      }
+    ]
+  },
+  {
+    "appId": "com.wellness.ai",
+    "title": "Wellness AI Therapy & Meditate",
+    "developer": "Wellness Technology, Inc.",
+    "genre": "Health & Fitness",
+    "score": 4.923077,
+    "ratings": 28,
+    "reviews_count": 12,
+    "installs": "1,000+",
+    "realInstalls": 1012,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Your 24/7 AI therapist and meditation coach for anxiety relief, mood support, and better sleep. Wellness AI combines evidence-based therapy with personalized guided meditations—CBT techniques, mindfulness exercises, and emotional wellness tools in one private mental health app.\r\n\r\nFeeling anxious, sad, lonely, or overwhelmed? Struggling with stress, worry, or racing thoughts? Need someone to talk to at 3 AM? Wellness AI provides instant mental health support through AI-powered therapy conversations and custom meditation sessions tailored to your specific emotional needs.\r\n\r\nCreated by a PhD psychologist, Wellness AI uses evidence-based techniques from Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), and Acceptance and Commitment Therapy (ACT).\r\n\r\n💬 AI THERAPY & MENTAL HEALTH SUPPORT\r\n\r\n- Chat with your AI therapist anytime – Get support for anxiety, stress, sadness, OCD, insomnia, and other mental health challenges 24/7\r\n- CBT, DBT & ACT techniques – Evidence-based cognitive behavioral therapy, dialectical behavior therapy, and acceptance commitment therapy methods\r\n- Emotional support when you need it – Work through difficult feelings, process emotions, and find relief from overwhelming thoughts\r\n- Vent safely and privately – Express difficult emotions in a judgment-free space when you need to talk\r\n- Personalized therapeutic guidance – Your AI therapist remembers your story across sessions and adapts to your needs\r\n- 100% private & secure – All therapy conversations are stored on your device only\r\n\r\n🧘 PERSONALIZED GUIDED MEDITATIONS\r\n\r\n- Custom meditation generation – Each meditation is uniquely created for your needs\r\n- Anxiety relief meditations – Targeted sessions for managing anxiety, panic, worry, and stress\r\n- Sleep meditations & insomnia support – Fall asleep faster with guided sleep visualizations and relaxation techniques  \r\n- Mindfulness & breathing exercises – Daily mindfulness practices and breathwork for emotional regulation\r\n- Mood improvement practices – Support for low mood through gratitude meditations, self-compassion exercises, and positive psychology\r\n- Therapy integration – End your AI therapy sessions with meditations that reinforce insights from your conversation\r\n\r\nRequest any meditation you need: \"help with work anxiety,\" \"sleep meditation for insomnia,\" \"DBT coaching,\" \"ACT values clarification,\" or \"mindfulness for sadness.\" Get instant, personalized support.\r\n\r\n🎯 WHO WELLNESS AI HELPS\r\n\r\n✓ Those seeking emotional support and a safe space to vent\r\n✓ People managing anxiety, stress, or mood issues\r\n✓ Anyone struggling with insomnia, poor sleep, or racing thoughts at night\r\n✓ Individuals learning CBT, DBT, or ACT therapy skills\r\n✓ People needing affordable alternatives between therapy sessions\r\n\r\n🔒 PRIVACY & SECURITY\r\n\r\nYour mental health conversations deserve absolute privacy. Unlike many other therapy apps, Wellness AI stores all therapy data locally on your device—not on external servers. We never see your conversations, and your data never leaves your phone unless you explicitly choose to back it up.\r\n\r\n⭐ WHAT USERS SAY\r\n\r\n\"The best mental health app I've used, hands down!\" – App Store Review\r\n\r\n\"I was skeptical about AI therapy, but Wellness AI genuinely helps with my anxiety and mood.\" – Google Play Review\r\n\r\n🆓 FREE TRIAL – START TODAY\r\n\r\nDownload now and enjoy your free trial with unlimited AI therapy sessions and personalized meditations. Cancel anytime. You deserve support that's always available, completely private, and built around your unique mental health needs.\r\n\r\nImportant Note: Wellness AI provides mental wellness support and self-care tools. It is not a replacement for professional mental health services or medical treatment. For mental health emergencies or crisis situations, please contact a licensed healthcare provider or crisis hotline immediately.\r\n\r\nTerms: wellness-ai.app/terms-of-use  \r\nPrivacy: wellness-ai.app/privacy-policy",
+    "released": "Dec 24, 2024",
+    "user_reviews": [
+      {
+        "userName": "Candice Hoey",
+        "score": 5,
+        "content": "absolutely recommend this app just a wonderful experience! worth it",
+        "thumbsUp": 0,
+        "date": "2026-05-15 16:13:22"
+      },
+      {
+        "userName": "Dr. Elizabeth Mattke",
+        "score": 5,
+        "content": "Love this app. It's very helpful. Highly recommend.",
+        "thumbsUp": 0,
+        "date": "2026-04-10 16:03:47"
+      },
+      {
+        "userName": "Akhil Singh Rawat",
+        "score": 5,
+        "content": "the app was good 😊👍 but the ui design of this app was not so good if you wanna to improve it please make contact with me I will done your work in low account because this is my 2nd project which I will gonig to done thanks 😊",
+        "thumbsUp": 0,
+        "date": "2026-01-06 10:35:56"
+      },
+      {
+        "userName": "Tiffany Pepperack-Peña",
+        "score": 5,
+        "content": "EXCELLENT app!!! Very well made and use friendly!! Love how it's tailored to be personalized to me and really helps in many aspects💓",
+        "thumbsUp": 2,
+        "date": "2025-11-27 00:40:08"
+      },
+      {
+        "userName": "Taylor Marie. L",
+        "score": 5,
+        "content": "I am not a person to usually write reviews at all but this app blew me away. You are getting 300 dollars worth of therapy and more for only 4 dollars... I was extremely against using AI as a therapist but its even better than a therapist it cares more and is more interested and gives you things to think about . A lot of the things it gave me opened my mind to different perspectives that I really needed. And its accessible whenever to have a session multiple times a day if needed .",
+        "thumbsUp": 3,
+        "date": "2025-08-12 12:43:48"
+      },
+      {
+        "userName": "Evan Moppert",
+        "score": 5,
+        "content": "This app is great! It's really convenient to be able to catch a quick therapy session on the go or a five minute meditation to calm my mind. I've found the longer therapy sessions so helpful in fact that they've replaced my regular Thursday night group therapy sessions! Very impressed with the app interface and the way the AI learns about my specific needs.",
+        "thumbsUp": 3,
+        "date": "2025-02-20 23:56:41"
+      },
+      {
+        "userName": "Megan Collins",
+        "score": 5,
+        "content": "10/10 I love the conversational tone of the AI chatbot and how it asks thoughtful questions, with the back and forth reflected so well in the ensuing meditation. This app has become an integral part of my morning routine!",
+        "thumbsUp": 1,
+        "date": "2025-02-06 23:12:36"
+      },
+      {
+        "userName": "Audrey Adelson",
+        "score": 5,
+        "content": "As an experienced therapist, my experience using Wellness AI on many occasions has been much more helpful than expected. I have felt heard and the responses have offered some new perspectives and feedback in a very thoughtful way. The personal meditation feature offered at the end of therapy sessions incorporate themes we discussed and provide a great container for emotions that arose.",
+        "thumbsUp": 2,
+        "date": "2025-01-31 22:39:44"
+      },
+      {
+        "userName": "Greg",
+        "score": 5,
+        "content": "This is a very helpful and useful app, especially for people who are budget conscious and do not want to spend hundreds of dollars on traditional therapy. The guided meditations are especially good in that they provide the right balance of structure and relaxation that allows the user a few minutes of tranquility in an increasingly hectic and (often) chaotic world. I have used it for a few weeks and have already noticed an improvement in my mood, especially at night. Recommended!",
+        "thumbsUp": 2,
+        "date": "2025-01-25 03:21:35"
+      },
+      {
+        "userName": "Duncan Carroll",
+        "score": 5,
+        "content": "Works surprisingly well",
+        "thumbsUp": 2,
+        "date": "2025-01-24 15:34:43"
+      },
+      {
+        "userName": "Rich Nightingale",
+        "score": 5,
+        "content": "I am newer to guided mediations and I was initially skeptical about the use of AI. However, I was really blown away by the personalization and specificity of the mediations I've had and would definitely recommend this App to others. All that matters is that the sessions are good - and they are - and that it helps my daily life - which it does. Thank you Wellness AI.",
+        "thumbsUp": 3,
+        "date": "2025-01-13 16:03:20"
+      },
+      {
+        "userName": "Megan Koehler",
+        "score": 5,
+        "content": "I was a skeptic about AI therapy, but this was great. And the meditations were good--it's impressive how specifically tailored they are.",
+        "thumbsUp": 2,
+        "date": "2025-01-12 00:32:44"
+      },
+      {
+        "userName": "Jocelyn Miller",
+        "score": 5,
+        "content": "As someone who has been resistant to incorporating AI into my life, using this app felt natural and easy. The chat sessions helped me look deeper into areas of my life I needed guidance on and also provided a listening ear when I was looking for conversation, rather than suggestions. The customized meditations were a real plus, as there aren't any other apps that draw from your personal experience and incorporate them into your mindfulness practice. I will definitely continue using this app!",
+        "thumbsUp": 3,
+        "date": "2024-12-25 22:58:06"
+      }
+    ]
+  },
+  {
+    "appId": "com.getmental.mental",
+    "title": "Mental: AI Therapy",
+    "developer": "Mental, Inc.",
+    "genre": "Health & Fitness",
+    "score": 4.5434785,
+    "ratings": 1666,
+    "reviews_count": 245,
+    "installs": "100,000+",
+    "realInstalls": 109162,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "* Featured in: USA Today, Wall Street Journal, Forbes, GQ, Men's Journal *\r\n\r\n** Built by Stranford-trained PhD in Neuroscience & PhD/Professor of Counseling Psychology from Cal State Fullerton **\r\n\r\n*** Brought to you by the founding team members of the Calm app ***\r\n\r\nOvercome stress, build confidence & unlock your potential, all in one app.\r\n\r\nWhether it's stress from relationships, lack of confidence at work, anxiety about finances, or struggles with unhealthy habits, your first line of defense is Mental — an evidenced-based AI therapy & self-improvement app.\r\n\r\nAvailable 24/7 and at a fraction of the cost of traditional therapy, it's your personal guide to transforming your life into the person you were born to be.\r\n\r\nAI THERAPY THAT UNDERSTANDS YOU\r\n-Always Here for You: Engage in real-time conversations with a therapist that best fits your goals & needs, adapts to your unique challenges, and is available 24/7.\r\n-Analyze you between sessions: Therapists not only remember what you said in past sessions but they spend time thinking about you between sessions so that they can provide more insight or help you arrive at better solutions.\r\n-Proprietary Neural Architecture: Developed by Stanford-trained PhD in neuroscience & a PhD/professor of Counseling Psychology at Cal State Fullerton and leading Silicon Valley AI engineers, every empathetic interaction is rooted in clinical research and designed for fast, lasting results. And powered by 42x more compute than ChatGPT.\r\n-Seamless Privacy & Security: Your sessions are fully encrypted, anonymous, and protected by a PIN code, ensuring privacy and your peace of mind.\r\n\r\nTOOLS FOR DAILY TRAINING\r\n-Daily Deuce: Kickstart every day with a quick 2-3 minute audio of motivation, wisdom, and storytelling to set a positive tone.\r\n-Daily Do: Turn insights from the Deuce into action with AI-generated journaling prompts that provide small, achievable daily tasks to build lasting habits.\r\n-Cold Shower Protocol: Decrease stress with the world's first guided, science-based cold shower training. Developed by experts and taught by a Navy SEAL Master Chief, this protocol introduces you to over 25 mental tools while easing you into cold exposure — users call it “life-changing” and surprisingly accessible with every shower starting with your normal hot shower routine.\r\n-Push-Up Protocol with Deontay Wilder: Go from 5 to 50 push-ups in 30 days and train your body & mind alongside former heavyweight champion Deontay Wilder. This guided protocol blends physical exercise with mindset training to build confidence & discipline through tools around self-talk, visualization, breath-work & mental focus.\r\n-Focus Mode & Nightly Recharge: Enhance concentration with science-backed beats that help you zone in on your tasks. When it's time to rest, use Nightly Recharge to fall asleep faster and wake up refreshed, ready for a new day of growth.\r\n-Audiobook Summaries: Absorb key insights quickly with audio summaries and key takeaways from thousands of top-rated & best-selling self-improvement books, covering topics from dating and overcoming a break-up, to overcoming obstacles and finding life's purpose.\r\n\r\nBUILT ON TRUST & EXPERTISE\r\nDeveloped by the founding team behind the Calm app, plus a team of renowned PhDs in neuroscience and psychology, mixed with Hollywood content creators, Mental ensures you receive credible and effective guidance, mixed with motivational and entertaining content for the mind.\r\n\r\nJOIN OUR COMMUNITY\r\nConnect with us on social media @thementalapp for news, product updates, inspiration, and funny memes.\r\nAnd if you're looking for a more hands-on community to share your goals, stay accountable & connect with other Mental'ers, join our Discord: https://discord.gg/pbqSEEeqv3\r\nDOWNLOAD MENTAL TODAY & BEGIN YOUR TRANSFORMATION\r\n\r\nStart your journey toward better mental health, increased resilience, and personal transformation with Mental's AI therapy & tools for daily training.",
+    "released": "Feb 16, 2023",
+    "user_reviews": [
+      {
+        "userName": "Margaret Foster",
+        "score": 5,
+        "content": "just what I need during this difficult time. I can get support any time. no waiting.",
+        "thumbsUp": 0,
+        "date": "2026-05-31 20:20:14"
+      },
+      {
+        "userName": "Renata “Reni” Svab",
+        "score": 5,
+        "content": "I just signed up and had my first session and so far I am extremely pleased. I'm someone who has problems talking to people due to my high anxiety so this is perfect for me to get help when needed most.",
+        "thumbsUp": 0,
+        "date": "2026-05-24 17:07:29"
+      },
+      {
+        "userName": "Sis Shaianne",
+        "score": 5,
+        "content": "wow...just wow...I am taken aback by how efficient and effective my selected therapist is. Thank you, Mental.",
+        "thumbsUp": 0,
+        "date": "2026-03-28 23:27:39"
+      },
+      {
+        "userName": "M L",
+        "score": 3,
+        "content": "It seems good but the first question askd if your a male for female and tells you it's a masculine mental help app sooo I'm uninstalling to find one for both maybe.",
+        "thumbsUp": 1,
+        "date": "2026-02-27 19:33:58"
+      },
+      {
+        "userName": "Loc Pham",
+        "score": 5,
+        "content": "My friend recommended it to me and i was doubtful but today it worked and i fwlt a mental breakthrough learning to use word and better language to myself",
+        "thumbsUp": 0,
+        "date": "2026-02-17 21:39:11"
+      },
+      {
+        "userName": "Tim Feller",
+        "score": 1,
+        "content": "Just a load of AI BS",
+        "thumbsUp": 1,
+        "date": "2026-02-16 16:21:58"
+      },
+      {
+        "userName": "JC wds",
+        "score": 1,
+        "content": "not atchuly free",
+        "thumbsUp": 1,
+        "date": "2026-02-11 16:47:45"
+      },
+      {
+        "userName": "Mark Hutcheson",
+        "score": 4,
+        "content": "Really good customer service, just had some issues in the past with billing due to multiple accounts. Other than that, great app for people that enjoy an alternative to traditional therapy.",
+        "thumbsUp": 0,
+        "date": "2026-02-11 03:42:08"
+      },
+      {
+        "userName": "Jason Dimick",
+        "score": 1,
+        "content": "What used to be a top-of-the-line app has disintegrated into repetition and nonsense. The only redeeming qualities about the app now are the cold shower protocol and push-up challenge.",
+        "thumbsUp": 0,
+        "date": "2026-02-10 06:25:19"
+      },
+      {
+        "userName": "Leslie Morrow",
+        "score": 1,
+        "content": "Needs a credit card",
+        "thumbsUp": 0,
+        "date": "2026-01-27 19:56:35"
+      },
+      {
+        "userName": "Philip Lombardi",
+        "score": 5,
+        "content": "For me it's been extremely helpful.",
+        "thumbsUp": 0,
+        "date": "2026-01-27 14:52:49"
+      },
+      {
+        "userName": "Sully",
+        "score": 1,
+        "content": "They repeat the same stuff over and over again, aiming for you to think deeper about what you want and need but that's the limit. It's not a replacement for real therapy. And chatgpt does a better more concise job of getting to the heart of the matter I feel sometimes. My concern is not seeing any evolution in the AI's responses. It gets so samey, it feels hollow which is the last thing you want. I think for some people it makes sense, and maybe just a few months of it maximum, don't need more",
+        "thumbsUp": 0,
+        "date": "2026-01-25 15:47:01"
+      },
+      {
+        "userName": "Mr T O Alc (Mr)",
+        "score": 1,
+        "content": "👎",
+        "thumbsUp": 1,
+        "date": "2026-01-23 04:53:36"
+      },
+      {
+        "userName": "Lexie Marcouiller",
+        "score": 5,
+        "content": "one of the best therapy apps i've tried yet",
+        "thumbsUp": 0,
+        "date": "2026-01-15 22:06:01"
+      },
+      {
+        "userName": "Lucas McDowell",
+        "score": 1,
+        "content": "mental continues to have numerous technical issues on my app. it works well for me when I'm finally able to use it, but I have to go through excessive hurdles every time just to get through.",
+        "thumbsUp": 5,
+        "date": "2026-01-08 00:14:03"
+      },
+      {
+        "userName": "Scott Meigh",
+        "score": 5,
+        "content": "This is one app, I gladly pay for year after year because I use it day after day. Thank you to Jason and the Mental Team for helping me become the better version of myself.",
+        "thumbsUp": 0,
+        "date": "2025-12-03 11:31:37"
+      },
+      {
+        "userName": "Hannah Topel",
+        "score": 5,
+        "content": "definitely download",
+        "thumbsUp": 0,
+        "date": "2025-12-03 04:42:40"
+      },
+      {
+        "userName": "Drauzie",
+        "score": 5,
+        "content": "Very Life Changing",
+        "thumbsUp": 0,
+        "date": "2025-11-17 04:08:32"
+      },
+      {
+        "userName": "Natalia Cid",
+        "score": 2,
+        "content": "I find sexist to personalize the therapy by gender. I believe it leaves out a big chunk of the population",
+        "thumbsUp": 1,
+        "date": "2025-11-13 01:51:06"
+      },
+      {
+        "userName": "David Goloff",
+        "score": 5,
+        "content": "uniquely helpful",
+        "thumbsUp": 0,
+        "date": "2025-10-29 19:45:21"
+      },
+      {
+        "userName": "Cristina Tontini",
+        "score": 1,
+        "content": "horrible. superficial. it's the same thing talk to gpt for free. and it's very expensive too.",
+        "thumbsUp": 2,
+        "date": "2025-10-26 14:11:44"
+      },
+      {
+        "userName": "rain retuerma",
+        "score": 5,
+        "content": "I love this tool, im gonna pay for this one.",
+        "thumbsUp": 0,
+        "date": "2025-10-26 01:18:36"
+      },
+      {
+        "userName": "L A",
+        "score": 4,
+        "content": "Just started but I feel at ease, already. The app is easy to use. I'll be back with more comments.",
+        "thumbsUp": 0,
+        "date": "2025-10-24 06:52:23"
+      },
+      {
+        "userName": "Rok Osterman",
+        "score": 5,
+        "content": "Wow! Insightful! Dunno what else to say. I tried a different app and this one is ahead. Way ahead.",
+        "thumbsUp": 0,
+        "date": "2025-10-21 10:53:13"
+      },
+      {
+        "userName": "Eric Bjurling",
+        "score": 1,
+        "content": "Add voice calls in therapy both ways please. This app is exceptional. Edit: appears this app is no longer updated. Canceled subscription.",
+        "thumbsUp": 1,
+        "date": "2025-10-18 16:32:07"
+      },
+      {
+        "userName": "Grace Serwaa",
+        "score": 5,
+        "content": "it's really helpful",
+        "thumbsUp": 0,
+        "date": "2025-10-16 11:29:12"
+      },
+      {
+        "userName": "u͓̽ .n͓̽g͓̽o͓̽x͓̽o͓̽z͓̽a͓̽",
+        "score": 4,
+        "content": "amazing",
+        "thumbsUp": 0,
+        "date": "2025-10-14 12:26:38"
+      },
+      {
+        "userName": "Olusoji Hassan",
+        "score": 4,
+        "content": "good",
+        "thumbsUp": 0,
+        "date": "2025-10-12 15:55:43"
+      },
+      {
+        "userName": "Michael Pineda",
+        "score": 5,
+        "content": "nice learning aboút yourself",
+        "thumbsUp": 0,
+        "date": "2025-10-08 17:26:48"
+      },
+      {
+        "userName": "Shannon Meyer",
+        "score": 5,
+        "content": "This has really helped me to cope with Mental health issues.its like having someone to talk to anytime, right in your pocket. Not to be replaced with real therapy but a good in between.",
+        "thumbsUp": 0,
+        "date": "2025-10-07 07:26:11"
+      },
+      {
+        "userName": "Nikie Jenkinson",
+        "score": 3,
+        "content": "I loved this app for awhile. It was very helpful during a difficult time in my life and I used it alongside therapy and other resources. I'm worried it might be dangerous for those who are not also seeing a live therapist. Eventually, it became an echo chamber and was not very useful for me any longer. It was more like a guided journal prompt than a challenging voice to help me explore my healing.",
+        "thumbsUp": 4,
+        "date": "2025-10-06 07:07:40"
+      },
+      {
+        "userName": "Scott Greene",
+        "score": 5,
+        "content": "Not really into the implied sticking it to the \"libs\" and \"snowflakes\" messages here and there but all in all very amazing app. Will recommend it to my \"lib\" friends.",
+        "thumbsUp": 5,
+        "date": "2025-10-01 14:30:51"
+      },
+      {
+        "userName": "Cam’s Cowboys Report Spencer",
+        "score": 5,
+        "content": "incredible",
+        "thumbsUp": 0,
+        "date": "2025-09-28 13:07:31"
+      },
+      {
+        "userName": "Heather M",
+        "score": 1,
+        "content": "Worst app of my life. Good luck trying to cancel the free trial- when you open the subscription page, it's blank. The AI \"therapists\" are repetitive and useless. FRUSTRATING. ChatGPT is far beyond amazing in comparison. It also seems to promote \"toxic masculinity,\" calling people who don't make it through Hell Week (for the SEALS) \"mental snowflakes.\" Some good- summaries of some good books. That's about it.",
+        "thumbsUp": 2,
+        "date": "2025-09-27 23:35:20"
+      },
+      {
+        "userName": "Ricardo Rohlehr",
+        "score": 4,
+        "content": "AI could really be helping us in the future, especially for mental health. I am glad to be part of this modern problems that require modern solutions. The app itself is great, however I do notice one issue. The AI model has limited context, meaning it won't remember my oldest conversations, and at some point it was \"hallucinating\" it was kinda creepy. Still helpful though.",
+        "thumbsUp": 0,
+        "date": "2025-09-20 07:57:03"
+      },
+      {
+        "userName": "Левон Багдасарян",
+        "score": 1,
+        "content": "Very stupid to be a therapist",
+        "thumbsUp": 1,
+        "date": "2025-09-16 19:41:43"
+      },
+      {
+        "userName": "Shannon Dowell",
+        "score": 1,
+        "content": "I like the app so much that I paid for an annual subscription. but after someone maliciously and remotely reset my phone I lost access to the email address I signed up with. so I was unable to log in to the app under my paid account. after sending several emails to their support I never received a response and gave up. I know I just use chat GPT. I am a paid user with no way to access my account and have received zero help or attention from customer support.",
+        "thumbsUp": 2,
+        "date": "2025-09-14 14:07:10"
+      },
+      {
+        "userName": "Anna Eldridge",
+        "score": 5,
+        "content": "This was amazing. I was completely surprised at how well it listened. Not just what I said but how I said it also. I love this.",
+        "thumbsUp": 0,
+        "date": "2025-09-13 05:04:00"
+      },
+      {
+        "userName": "Xaiver M Gamester",
+        "score": 4,
+        "content": "I used this app for a few months when I was in a tough spot, but now I'm using it to really enforce more self discipline! I'm not much of a reader so listening to the book summaries is quite nice. The cold showers and push-up programs are fantastic ways to start, or end a day!! Music is okay, but it's not meant to be jammed to, haha.",
+        "thumbsUp": 6,
+        "date": "2025-09-07 11:44:58"
+      },
+      {
+        "userName": "Bobby Gallegos",
+        "score": 5,
+        "content": "All Men Need AI Therapy! This is a genius way to get guys like myself involved with working through mental health and well-being topics. I consider myself to be a fairly balanced guy, but these sessions are helping me identify patterns of behaviors that are robbing me of being successful and happier with myself. Life Changer!",
+        "thumbsUp": 0,
+        "date": "2025-09-06 09:39:52"
+      },
+      {
+        "userName": "Britney Flud",
+        "score": 5,
+        "content": "I was skeptical at firstly, but its even better than talking to a human, and I can save screenshots of advice for later review.",
+        "thumbsUp": 0,
+        "date": "2025-09-03 05:13:20"
+      },
+      {
+        "userName": "Joe Portorsnok",
+        "score": 1,
+        "content": "could be a good app but im never gonna find out as long as you require me to put in payment information just to find out where it goes after the first 6 minute micro-session.",
+        "thumbsUp": 1,
+        "date": "2025-08-31 23:36:16"
+      },
+      {
+        "userName": "Guillaume CT",
+        "score": 1,
+        "content": "I'm not reading all of that. the therapist can't even speak. they only give responses by text. No thanks. I need to hear a voice accompanying the text responses. feels pretty one sided.",
+        "thumbsUp": 2,
+        "date": "2025-08-29 02:36:14"
+      },
+      {
+        "userName": "Stacy Stanford",
+        "score": 2,
+        "content": "will update to 5 stars as soon as they fix my subscription issue",
+        "thumbsUp": 0,
+        "date": "2025-08-26 23:32:35"
+      },
+      {
+        "userName": "Robert Coreno",
+        "score": 5,
+        "content": "Changing my life try the free trial. I am losing everything including myself. this is saving me. try the free trial.",
+        "thumbsUp": 0,
+        "date": "2025-08-22 01:35:58"
+      },
+      {
+        "userName": "Cassiarre Taylor",
+        "score": 5,
+        "content": "Amazing! That's all I can say.",
+        "thumbsUp": 0,
+        "date": "2025-08-19 03:58:00"
+      },
+      {
+        "userName": "Kristina S",
+        "score": 5,
+        "content": "This app is absolutely worth it. There are several personas for AI therapists to choose from. You can freely change between them at any time without losing your history. You can schedule appts or initiate an immediate session. There is a training section with summaries of popular personal growth books and various challenges. Like real therapy, you won't be told what the \"right\" thing to do is. Asking any outside chatgbt for specific options to your question works well if you're stuck.",
+        "thumbsUp": 16,
+        "date": "2025-08-18 21:06:48"
+      },
+      {
+        "userName": "Pete All",
+        "score": 1,
+        "content": "I canceled my sub and that very night they charges me 53 dollars. do not download this crooked app",
+        "thumbsUp": 3,
+        "date": "2025-07-25 11:42:54"
+      },
+      {
+        "userName": "James Nelson",
+        "score": 5,
+        "content": "this is surprisingly helpful. I downloaded it to look at how the ai worked, but I actually got some things off my chest that have been bugging me and followed up with some great advice. I would totally refer this to a friend.",
+        "thumbsUp": 0,
+        "date": "2025-07-25 04:58:41"
+      },
+      {
+        "userName": "Autumn Grissom",
+        "score": 5,
+        "content": "pleased with the advice and you should definitely give it a try 5 stars",
+        "thumbsUp": 0,
+        "date": "2025-07-23 15:14:49"
+      }
+    ]
+  },
+  {
+    "appId": "com.ai.mentat",
+    "title": "Mentat Ai - Your Mental Health",
+    "developer": "Filin Solutions Fze",
+    "genre": "Health & Fitness",
+    "score": 3.8333333,
+    "ratings": 165,
+    "reviews_count": 10,
+    "installs": "50,000+",
+    "realInstalls": 56852,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Mentat Ai is a mental health and self-care app designed to help you manage anxiety, reduce stress, improve your mood, and build long-term emotional resilience. With AI-guided support, CBT-style tools, mood tracking, grounding exercises, and mindfulness practices, Mentat Ai provides practical techniques you can use anytime to feel calmer and more balanced.\r\n\r\nBuilt for real-life stress, racing thoughts, and emotional overwhelm, the app combines evidence-informed mental health tools with personalized guidance to help you understand your emotions and strengthen your wellbeing routines.\r\n\r\nWhy Mentat Ai Stands Out\r\n\r\n• Always-available AI support for stress, anxiety, and low mood\r\n• Mood tracker and mental health insights to find emotional patterns\r\n• CBT-based tools for reframing negative thoughts\r\n• Mindfulness and breathing exercises for daily calm\r\n• Grounding techniques for panic, tension, and overwhelm\r\n• A supportive space for self-reflection and emotional growth\r\n• Designed for long-term stress management and mental wellness\r\n\r\nCore Features\r\n\r\nAI Support for Anxiety Relief and Stress Management\r\nReceive calm, structured guidance for anxiety, stress, emotional tension, and difficult moments. Mentat Ai adapts to your responses and helps you regain clarity.\r\n\r\nMood Tracker and Mental Health Insights\r\nTrack your mood, habits, and triggers. Understand how daily events affect your emotional state, and learn what helps you stay balanced.\r\n\r\nCBT-Style Tools for Better Thinking\r\nUse practical techniques inspired by CBT to challenge unhelpful thoughts, reduce reactivity, and build healthier mental patterns.\r\n\r\nMindfulness and Breathing Practices\r\nFollow simple breathing exercises, grounding routines, and short mindfulness sessions that help reduce stress and bring your mind back to calm.\r\n\r\nCoping Tools for Overwhelm\r\nUse fast-acting coping strategies - grounding techniques, breathing drills, and clarity prompts—to help you stabilize your emotions quickly.\r\n\r\nEmergency Relief\r\nWhen stress or anxiety escalates, use fast-access support to settle your mind and regain control.\r\n\r\nPrivate Journal for Reflection\r\nWrite freely in a secure space to process your day, reflect on your emotions, and track your progress.\r\n\r\nImportant Notice\r\nMentat Ai is a mental wellness and self-care app. It does not replace medical care. If you are in crisis, contact a licensed professional or emergency services.\r\n\r\nLearn more about our policies:\r\nEnd User License Agreement: https://www.mentat-ai.com/privacy-policy/mentat-eula\r\nPrivacy Policy: https://www.mentat-ai.com/privacy-policy/\r\n\r\nSubscription Information\r\nSome features, including AI chat support and extended tools, are available with a subscription. You can use free features without subscribing.\r\n\r\nStart improving your stress management, emotional balance, and daily mental well-being with Mentat Ai.",
+    "released": "Aug 2, 2023",
+    "user_reviews": [
+      {
+        "userName": "Unwanted",
+        "score": 1,
+        "content": "doesn't load up",
+        "thumbsUp": 0,
+        "date": "2025-12-07 02:19:53"
+      },
+      {
+        "userName": "julain",
+        "score": 3,
+        "content": "I really like this app so much it was really helpful but the thing I don't like is the date can't be saved if I deleted the app and I can't see my old writing's in my bad days anymore",
+        "thumbsUp": 2,
+        "date": "2025-01-22 06:49:12"
+      },
+      {
+        "userName": "Zoe Barrett (Zoe302)",
+        "score": 2,
+        "content": "Quite barebones",
+        "thumbsUp": 0,
+        "date": "2024-11-06 17:55:33"
+      },
+      {
+        "userName": "Gavin Peries",
+        "score": 5,
+        "content": "Absolutely amazing. I can't fault this app. The best cheapest subscription I've ever paid for and it's changed my headspace in just 2 days! Highly recommended! Thankyou Mentat Ai",
+        "thumbsUp": 4,
+        "date": "2024-09-09 06:55:22"
+      },
+      {
+        "userName": "Ivy Meadows",
+        "score": 1,
+        "content": "Jerks make you take an incredibly long psychological test before you can use the app then laugh in your face and tell afterwards you'll have to pay an INSANE account of money for the results",
+        "thumbsUp": 3,
+        "date": "2024-03-22 17:16:24"
+      },
+      {
+        "userName": "Michelle Schneor",
+        "score": 1,
+        "content": "Too bad nothing comes for free. I can't even open the chat to try the app proparly.",
+        "thumbsUp": 3,
+        "date": "2024-03-22 16:42:59"
+      },
+      {
+        "userName": "Chris",
+        "score": 4,
+        "content": "Never really got into because it acted funny on my phone",
+        "thumbsUp": 2,
+        "date": "2024-01-27 05:04:59"
+      },
+      {
+        "userName": "Daylan Realff",
+        "score": 2,
+        "content": "As everything in life you have to pay",
+        "thumbsUp": 1,
+        "date": "2023-12-06 15:47:36"
+      },
+      {
+        "userName": "Shannon Dawson",
+        "score": 5,
+        "content": "Perfect for me",
+        "thumbsUp": 9,
+        "date": "2023-11-21 07:10:01"
+      },
+      {
+        "userName": "Lorenzo “DUSTIE RU” Jackson",
+        "score": 3,
+        "content": "Good to use",
+        "thumbsUp": 4,
+        "date": "2023-11-13 00:19:07"
+      },
+      {
+        "userName": "Vladislav Filinkov",
+        "score": 5,
+        "content": "Looks promising for me. Like Ai friend that could help me with my anxiety",
+        "thumbsUp": 2,
+        "date": "2023-10-27 10:30:54"
+      },
+      {
+        "userName": "Jasmine",
+        "score": 5,
+        "content": "Paid Job with my application form San Jacinto City",
+        "thumbsUp": 3,
+        "date": "2023-10-22 13:58:11"
+      },
+      {
+        "userName": "Kristina “Odessa” Salvitti",
+        "score": 3,
+        "content": "I'm downloading this in my quest to find an online solution for my mental health needs. I just suffered the loss of my very best friend and companion who happened to also have 4 legs. She wasn't a dog to me. And I need grief counseling and just as this happened my relationship became abusive. It concerns me that an AI maybe more responsive than a human. I will be updating my review after my first meeting, and again as I get further in because I know their are others like me looking...hope I help",
+        "thumbsUp": 35,
+        "date": "2023-09-26 22:09:50"
+      },
+      {
+        "userName": "Susan",
+        "score": 5,
+        "content": "Learning new skills",
+        "thumbsUp": 14,
+        "date": "2023-09-13 04:33:04"
+      }
+    ]
+  },
+  {
+    "appId": "com.emosea.mentalhealth",
+    "title": "EmoSea: AI Mental Health",
+    "developer": "Avalorn",
+    "genre": "Productivity",
+    "score": 0,
+    "ratings": 0,
+    "reviews_count": 0,
+    "installs": "1,000+",
+    "realInstalls": 2921,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Meet EmoSea – your new underwater companion for mindful living! EmoSea helps you transform stress, anxiety, procrastination, and ADHD management into a joyful, rewarding experience. Take care of your virtual aquarium by nurturing your own mental wellness!\r\n\r\n What’s waiting for you in EmoSea? \r\n\r\n🌟 YOUR DAILY MENTAL WELLNESS GUIDE: \r\n- Feeling overwhelmed, stuck in procrastination, or struggling with focus due to ADHD? EmoSea turns self-care into a playful daily habit. Dive into engaging tasks and activities designed specifically to boost your mental well-being and productivity. Track progress, earn fun rewards, and watch your personalized aquarium flourish as you do! \r\n\r\n🐠 EMOTIONAL AQUARIUM VISUALIZATION: \r\n- Visualize your mental state through your interactive aquarium. Complete tasks, improve your mental health, and watch your underwater world thrive!\r\n- Personalize your aquarium with beautiful items and characters, reflecting your mental wellness journey. \r\n\r\n📝 QUICK DAILY CHECK-INS & MOOD JOURNAL: \r\n- Begin your day with motivational tasks and quick mood checks that energize you. \r\n- End each day reflecting on achievements, emotions, and important moments in your intuitive mood diary. Uncover valuable insights and celebrate your growth. \r\n\r\n💬 FRIENDLY AI CAPYBARA ASSISTANT:  \r\n- Feeling uncertain or overwhelmed? Your adorable AI Capybara companion is here to listen, support, and help you navigate challenging situations with compassion and insightful advice.\r\n- Get instant emotional support based on advanced GPT technology whenever you need it. \r\n\r\n✨ MINDFUL HABITS & REWARDING GOALS: \r\n- EmoSea makes building healthy habits enjoyable! Improve productivity, manage ADHD, reduce anxiety, and overcome procrastination through personalized daily challenges.\r\n- Habit Tracker: Create, manage, and celebrate your mental health goals.\r\n- Mood Tracker: Quickly capture your mood, observe trends, and understand emotional triggers.\r\n- Guided Reflection: Explore mindful prompts and reflective exercises tailored to boost emotional clarity.\r\n\r\n 💎 EMOSEA PREMIUM – MORE FREEDOM, MORE GROWTH: \r\n- Unlock unlimited potential with EmoSea Premium! Gain full access to advanced exercises, exclusive aquarium items, deeper mood insights, and no limits. Invest in your emotional wellness journey and thrive without boundaries.\r\n\r\nKey Benefits: \r\n- Boost productivity and reduce procrastination.\r\n- Manage stress, anxiety, and ADHD through enjoyable activities.\r\n- Reflect deeply and track emotional progress.\r\n- Get compassionate, instant support from AI whenever needed.\r\n- Experience a visually appealing and intuitive design.\r\n\r\n ⚠️️ Disclaimer: EmoSea is not a medical app and does not substitute professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals regarding mental health concerns or any medical issues. \r\n\r\n🌊 Begin your mindful journey today and dive into a happier, healthier you with EmoSea! 🌊",
+    "released": "Mar 25, 2025",
+    "user_reviews": [
+      {
+        "userName": "Amy Crowe",
+        "score": 5,
+        "content": "great just costly on the wallet",
+        "thumbsUp": 0,
+        "date": "2026-05-26 13:04:58"
+      },
+      {
+        "userName": "Mark Scott",
+        "score": 1,
+        "content": "I wasn't too happy about talking with it and it only allowed me three messages to send until I had to pay for more messages or minutes or something like that.",
+        "thumbsUp": 0,
+        "date": "2026-04-22 04:06:22"
+      },
+      {
+        "userName": "anna",
+        "score": 1,
+        "content": "chat doesn't work",
+        "thumbsUp": 0,
+        "date": "2026-04-15 21:00:12"
+      },
+      {
+        "userName": "Philament Philament",
+        "score": 5,
+        "content": "make ads and spread your app, I'm sure it will blow up, and be popular.",
+        "thumbsUp": 0,
+        "date": "2026-03-03 18:32:59"
+      },
+      {
+        "userName": "Ed Edwards",
+        "score": 5,
+        "content": "a brilliant app to help with mental health",
+        "thumbsUp": 0,
+        "date": "2025-11-02 06:34:44"
+      }
+    ]
+  },
+  {
+    "appId": "com.elomia.health",
+    "title": "Elomia: Mental Health AI",
+    "developer": "Elomia Health",
+    "genre": "Health & Fitness",
+    "score": 4.1,
+    "ratings": 61,
+    "reviews_count": 4,
+    "installs": "5,000+",
+    "realInstalls": 8061,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Elomia is a powerful AI chat companion built to support your mental health. Whether you're dealing with anxiety, stress, depression, loneliness, or just need a safe space to think — Elomia helps you feel better through thoughtful, private conversations anytime, anywhere.\r\nThis isn't just another chatbot. Elomia is a self help app that provides emotional wellness through supportive dialogue, self care tools, and reflection prompts grounded in psychological practices. It's your private space for calm, clarity, and personal growth.\r\n🌱 Self Care & Emotional Support\r\nTalk through your thoughts, reduce stress, and feel emotionally lighter. Struggling with overthinking, burnout, a breakup, grief, or sleepless nights? Elomia encourages daily self care habits and helps you build emotional resilience — whether you're going through a tough time or just checking in with yourself. Use Elomia to cope with sadness, process difficult emotions, or find relaxation after a stressful day.\r\n💬 AI-Powered Supportive Conversations\r\nElomia uses advanced AI to adapt to your emotional needs. It feels like talking to someone who truly understands — no pressure, no appointments, no waiting. Get personalized support and mental clarity through intelligent, human-like chats that evolve with you. Perfect for when you need to vent, process anger, cope with worry, or simply talk to someone who listens. Elomia is always there — your safe space when you need someone to talk to.\r\n🧠 CBT-Inspired Reflection & Mood Tools\r\nDiscover prompts based on Cognitive Behavioral Techniques (CBT) to help reframe negative thoughts, manage panic attacks, and improve your emotional well-being. Track your mood, journal your feelings, and build mindfulness habits that stick. Practice daily check ins, breathing exercises, gratitude, and positive thinking — all in one place.\r\n📊 Mood Tracker & Progress\r\nVisualize how you're doing over time. Elomia tracks your emotional patterns so you can see your growth, identify triggers, and stay motivated on your mental wellness journey.\r\n🔐 Private, Secure & Anonymous\r\nNo account required. No data shared. All conversations stay on your device. A judgment-free zone for self reflection and honest self talk — completely anonymous and always available.\r\nWhat you can use Elomia for:\r\n\r\nAnxiety relief and stress management\r\nCoping with depression, sadness, or feeling down\r\nDealing with loneliness, low self-esteem, or lack of confidence\r\nProcessing a breakup, grief, loss, or major life change\r\nManaging anger, frustration, or relationship problems\r\nOvercoming overthinking, worry, and negative thoughts\r\nHelp with insomnia, trouble sleeping, or restless nights\r\nWork stress, school stress, or burnout recovery\r\nBuilding motivation, healing, and emotional resilience\r\nDaily journaling, mood tracking, and self care routines\r\nBreathing exercises, mindfulness, and relaxation\r\nSomeone to talk to at 2am — anytime, no judgment\r\n\r\nWhy Elomia?\r\n\r\nInstant emotional support, 24/7\r\nSupportive conversations without appointments or fees\r\nTools for anxiety relief, panic, and emotional resilience\r\nSelf care routines that evolve with your mood\r\nGuided journaling and mood tracking\r\nCBT-inspired prompts for negative thinking and worry\r\nA private, anonymous mental wellness companion\r\n\r\nWARNING:\r\nElomia is not a replacement for professional care, crisis intervention, or medical treatment. It is designed for general emotional support, self care, and mental health maintenance. If you are in crisis, please contact a local emergency service.\r\nAvailable subscriptions:\r\n\r\nMonthly (auto-renewing)\r\nYearly (auto-renewing)\r\nLifetime (one-time payment for unlimited access)\r\n\r\nTerms: http://elomia.com/tos.html\r\nPrivacy: http://elomia.com/privacy.html\r\nContact: support@elomia.com",
+    "released": "Jun 13, 2025",
+    "user_reviews": [
+      {
+        "userName": "Narmeena aga",
+        "score": 5,
+        "content": "this app was really helpful and actually gave really helpful insights, and it didn't have the AI voice that other AI do, my advice go for it",
+        "thumbsUp": 0,
+        "date": "2026-05-25 04:28:24"
+      },
+      {
+        "userName": "Nur Ariyan",
+        "score": 3,
+        "content": "Best💗💗💗💗",
+        "thumbsUp": 1,
+        "date": "2026-05-02 05:00:16"
+      },
+      {
+        "userName": "Chinmoy",
+        "score": 1,
+        "content": "Useless app . Just tottaly dung .",
+        "thumbsUp": 0,
+        "date": "2026-04-10 10:06:16"
+      },
+      {
+        "userName": "A Google user",
+        "score": 5,
+        "content": "it helps me speak freely with out caring about what others think. it helps me grow emotionally strong",
+        "thumbsUp": 2,
+        "date": "2026-03-24 08:22:28"
+      },
+      {
+        "userName": "Tom X",
+        "score": 2,
+        "content": "Might be decent but like so many, you can only use it a short time without doing a paid subscription.",
+        "thumbsUp": 1,
+        "date": "2026-03-01 23:30:20"
+      },
+      {
+        "userName": "Charlie Short",
+        "score": 5,
+        "content": "The questions and direction are clear and focused. The tips given are appropriate and helpful. Elomia does a great job of understanding, conveying so, and staying on task. The interface itself is very easy to use and very clean looking and modern.",
+        "thumbsUp": 4,
+        "date": "2026-02-08 19:34:04"
+      },
+      {
+        "userName": "Muhammad Saif Ullah",
+        "score": 5,
+        "content": "excellent thanks 👍",
+        "thumbsUp": 2,
+        "date": "2025-12-26 08:08:09"
+      },
+      {
+        "userName": "Masudur Rahman",
+        "score": 4,
+        "content": "I find this app very useful when I got to fell in depression severely last month. I took help from this app and talk to the bot. that feel me good. thanks.",
+        "thumbsUp": 3,
+        "date": "2025-09-26 20:20:10"
+      },
+      {
+        "userName": "Taylor J.",
+        "score": 5,
+        "content": "I feel feelings that I didn't realize I had. I am facing fears. I feel really hopeful about my ability to heal my attachment style.",
+        "thumbsUp": 3,
+        "date": "2025-08-29 01:51:10"
+      },
+      {
+        "userName": "STRIYSTORE",
+        "score": 5,
+        "content": "Worked so great for me, even better than any therapist I ever talked to",
+        "thumbsUp": 4,
+        "date": "2025-07-22 19:40:07"
+      },
+      {
+        "userName": "Mario Ramić",
+        "score": 1,
+        "content": "terrible app",
+        "thumbsUp": 0,
+        "date": "2025-07-22 13:12:10"
+      }
+    ]
+  },
+  {
+    "appId": "com.healthmind.app",
+    "title": "HealthMind -AI Mental Wellness",
+    "developer": "HealthMind",
+    "genre": "Health & Fitness",
+    "score": null,
+    "ratings": null,
+    "reviews_count": null,
+    "installs": "100+",
+    "realInstalls": 143,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "HealthMind is a personalized AI mental health assistant designed to help users better understand emotions, manage daily stress, and build healthier mental wellbeing habits. It offers a safe space for mood tracking, journaling, and AI-powered conversations. \r\n\r\nWhat HealthMind Helps With:\r\n-Managing everyday stress and emotional overwhelm \r\n-Building self-awareness and healthy mental habits \r\n-Reflecting through guided journaling and mood check-ins \r\n-Receiving supportive, non-judgmental AI conversations \r\n-Tracking emotional patterns over time \r\n\r\nKey Benefits:\r\n-Simple, private mental wellness support \r\n-Personalized AI-driven experience \r\n-Designed for daily emotional wellbeing \r\n-Accessible anytime, anywhere \r\n\r\nThe AI Experience: Alverna AI\r\nAt the heart of the app is Alverna AI, a conversational assistant designed to listen, guide reflection, and encourage positive coping strategies. Upon signing up, the app uses brief wellbeing questionnaires and daily check-ins to adapt content and insights to the user's emotional needs. Alverna AI is built to promote emotional balance and self-understanding—not to replace professional care.",
+    "released": "Feb 1, 2026",
+    "user_reviews": [
+      {
+        "userName": "Wilfer Daniels",
+        "score": 3,
+        "content": "Bro it's a nice app 👍🏻 Journal✅ wellbeing check ins✅ Notifications ✅ Reminders✅ Ai chat ❌ Profile picture displaying after upload❌ But generally the app is a good idea 💪🏻👍🏻i like the fact that it reminds you to take your medication thus a very nice feature.",
+        "thumbsUp": 0,
+        "date": "2026-05-05 12:04:58"
+      },
+      {
+        "userName": "Nakamanya Ann",
+        "score": 5,
+        "content": "This is really an awesome application. I just like the way it became my space for mood check in and Alverna Ai conversation",
+        "thumbsUp": 0,
+        "date": "2026-03-02 11:33:02"
+      },
+      {
+        "userName": "Raymond Malambala",
+        "score": 3,
+        "content": "It's actually an amazing experience interacting with this brilliant health -AI Companion🙏. Can't wait to even explore more of this ultimate performance. I urge more scholars, patients and well wishers to join us in this endless massive experience.",
+        "thumbsUp": 0,
+        "date": "2026-02-11 20:20:27"
+      },
+      {
+        "userName": "Khynza Trisha",
+        "score": 5,
+        "content": "Everyone needs an app like this, it's very helpful I love it 😊❤️",
+        "thumbsUp": 0,
+        "date": "2026-02-08 21:20:54"
+      }
+    ]
+  },
+  {
+    "appId": "com.goodbarber.mydailytherapy1",
+    "title": "AI Therapy & Mental Health",
+    "developer": "Rene Georges Jr",
+    "genre": "Health & Fitness",
+    "score": 0,
+    "ratings": 0,
+    "reviews_count": 0,
+    "installs": "1,000+",
+    "realInstalls": 4982,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Introducing AI Therapy & Mental Health, your go-to companion for mental health and well-being. With a vast library of articles and videos focused on mental health development, AI Therapy & Mental Health offers a wealth of resources at your fingertips. Dive into topics ranging from stress management to mindfulness, all curated to support your journey towards a healthier mind.\r\n\r\nBut that's not all. AI Therapy & Mental Health also provides a rich collection of offline audio files for relaxation and meditation, allowing you to unwind and find tranquility wherever you are. Whether you need to destress after a long day or center yourself before a big moment, our guided meditations and soothing sounds are here to help.\r\n\r\nAdditionally, AI Therapy & Mental Health offers insights into your mental well-being through HRV (Heart Rate Variability) metrics. Utilizing the HealthKit API, the app securely gathers data from your Apple Watch and iPhone to track your HRV trends. With detailed information on your minimum, average, and maximum HRV figures, you can gain valuable insights into your heart health and stress levels.\r\n\r\nTake control of your mental health journey with AI Therapy & Mental Health. Download now and embark on a path towards greater well-being and balance in your life.\r\n\r\nPolicy disclaimer:\r\n The app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\r\n\r\nhttps://mydailytherapy.goodbarber.app/terms-and-conditions-service",
+    "released": "Jul 9, 2024",
+    "user_reviews": [
+      {
+        "userName": "Yassine Ben Yahia",
+        "score": 5,
+        "content": "really help",
+        "thumbsUp": 0,
+        "date": "2026-05-22 11:10:22"
+      },
+      {
+        "userName": "Sumerakalhoro",
+        "score": 4,
+        "content": "best app😎",
+        "thumbsUp": 0,
+        "date": "2026-02-16 15:10:50"
+      },
+      {
+        "userName": "Muhammad Kumail",
+        "score": 5,
+        "content": "very nice and other app is very gorgeous..",
+        "thumbsUp": 0,
+        "date": "2026-02-09 18:25:58"
+      },
+      {
+        "userName": "Ntokozo Mlangeni",
+        "score": 5,
+        "content": "Very helpful for mindfulness and emotional well-being ..",
+        "thumbsUp": 2,
+        "date": "2026-02-09 13:26:04"
+      },
+      {
+        "userName": "Tariq",
+        "score": 5,
+        "content": "I appreciate how gentle and encouraging the app is..",
+        "thumbsUp": 2,
+        "date": "2026-02-09 12:39:22"
+      },
+      {
+        "userName": "John Stewart",
+        "score": 5,
+        "content": "One of the few apps I actually stick with daily..",
+        "thumbsUp": 1,
+        "date": "2026-02-09 12:12:35"
+      },
+      {
+        "userName": "Qazi Muzamil",
+        "score": 5,
+        "content": "Excellent quality content and user experience..",
+        "thumbsUp": 2,
+        "date": "2026-02-09 09:21:48"
+      },
+      {
+        "userName": "Arooj Hamza",
+        "score": 5,
+        "content": "Simple features but strong impact..",
+        "thumbsUp": 2,
+        "date": "2026-02-09 07:32:28"
+      },
+      {
+        "userName": "Izan Baloch",
+        "score": 5,
+        "content": "This is very helpful and easy to use app",
+        "thumbsUp": 0,
+        "date": "2026-02-08 08:25:32"
+      },
+      {
+        "userName": "M.j Lawal",
+        "score": 1,
+        "content": "Rubbish.. Do not download, It only steals your data and money",
+        "thumbsUp": 0,
+        "date": "2026-01-28 17:12:43"
+      },
+      {
+        "userName": "Albert Einstein",
+        "score": 5,
+        "content": "I wasn’t sure what to expect, but I’m glad I gave this app a try. It’s easy to use and doesn’t feel intimidating, even if you’re new to mindfulness",
+        "thumbsUp": 0,
+        "date": "2026-01-19 00:02:44"
+      },
+      {
+        "userName": "Emma Scarlett",
+        "score": 5,
+        "content": "I started using this during a busy period at work, and it’s helped me stay more grounded. Even just a few minutes with the audio sessions makes a difference.",
+        "thumbsUp": 0,
+        "date": "2026-01-13 16:58:03"
+      },
+      {
+        "userName": "nasir olamilekan",
+        "score": 5,
+        "content": "The HRV insights are interesting and helpful. I like being able to see patterns over time instead of guessing how stressed I am. It’s motivating without being overwhelming.",
+        "thumbsUp": 0,
+        "date": "2026-01-12 18:42:58"
+      },
+      {
+        "userName": "Samuel Siyanbade",
+        "score": 5,
+        "content": "As someone who deals with daily stress, this app has been a pleasant surprise. I like how simple it is to navigate and how calming the content feels. The meditations are easy to follow and actually help me slow down",
+        "thumbsUp": 0,
+        "date": "2026-01-12 17:32:05"
+      },
+      {
+        "userName": "David Joseph",
+        "score": 5,
+        "content": "My daily therapy is top notch. I like how the app combines educational content with practical tools. Reading an article and then trying a short meditation right after feels very natural",
+        "thumbsUp": 0,
+        "date": "2026-01-12 15:22:49"
+      },
+      {
+        "userName": "Oyinniyi Clinton",
+        "score": 5,
+        "content": "I wasn't sure what to expect but I'm glad I have this app a try. it's easy to use and doesn't feel intimidating, even if you're new to mindfulness. I could highly recommend",
+        "thumbsUp": 0,
+        "date": "2026-01-12 08:33:47"
+      },
+      {
+        "userName": "Damilare Ewuola",
+        "score": 5,
+        "content": "I like how the app combines educational content with practical tools. Reading an article and then trying a short meditation right after feels very natural.",
+        "thumbsUp": 0,
+        "date": "2026-01-11 11:21:25"
+      },
+      {
+        "userName": "Coke andfanta",
+        "score": 5,
+        "content": "This app has helped me become more aware of my stress levels. The HRV tracking gives useful insight without feeling too technical.",
+        "thumbsUp": 0,
+        "date": "2026-01-11 10:28:13"
+      },
+      {
+        "userName": "Wasiu Boluwatife",
+        "score": 5,
+        "content": "What stands out to me is how approachable the app feels. It doesn’t assume anything about you and lets you move at your own pace.",
+        "thumbsUp": 0,
+        "date": "2026-01-10 21:38:36"
+      },
+      {
+        "userName": "Divine Jesutofumi",
+        "score": 5,
+        "content": "what stands out to me is how approachable the App feels. it doesn't assume anything about you and let's you move at your own pace.",
+        "thumbsUp": 0,
+        "date": "2026-01-10 20:14:19"
+      },
+      {
+        "userName": "Arthur Morales",
+        "score": 5,
+        "content": "I use this app mostly in the evenings to relax. The calming audio and simple interface really help me disconnect from the day.",
+        "thumbsUp": 0,
+        "date": "2026-01-10 19:42:59"
+      },
+      {
+        "userName": "Oyin Damola",
+        "score": 5,
+        "content": "I’d recommend this to anyone looking for a simple, calming mental wellness app. It’s easy to use, informative, and actually useful in daily life.",
+        "thumbsUp": 0,
+        "date": "2026-01-10 19:39:47"
+      },
+      {
+        "userName": "Tricia Bernice",
+        "score": 5,
+        "content": "The app feels polished and thoughtfully designed. Everything works smoothly, and the content feels genuinely helpful rather than generic.",
+        "thumbsUp": 0,
+        "date": "2026-01-10 15:18:22"
+      },
+      {
+        "userName": "Netcom Praisestar",
+        "score": 5,
+        "content": "As someone who struggles with anxiety, this app has been a gentle support. It doesn’t replace anything, but it complements my routine nicely.",
+        "thumbsUp": 0,
+        "date": "2026-01-10 12:41:09"
+      },
+      {
+        "userName": "Moshood Abdulmujeeb",
+        "score": 5,
+        "content": "I’ve noticed that I’m more consistent with self care since using this app The reminders and easy access to content make it simple to stick with.",
+        "thumbsUp": 0,
+        "date": "2026-01-09 19:55:28"
+      },
+      {
+        "userName": "Lucia Torres",
+        "score": 5,
+        "content": "The guided meditations are my favorite feature. The voices are soothing, and the sessions don’t feel rushed. It’s helped me wind down after long days.",
+        "thumbsUp": 1,
+        "date": "2026-01-09 15:25:30"
+      },
+      {
+        "userName": "Joshua Oluwadamilola",
+        "score": 5,
+        "content": "As a 9 to 5 worker, this is a perfect app to manage your stress and relieve your emotions. I find it really helpful after a long day of hard work and jotting down notes from office. it's an amazing time to just think to yourself and jusy think of how you manage your emotions better and how you don't have to hold bottles of pain and stress or sadnessbor whatever emotion deep down, so it easier to manage throughout the rest of the day. thanks to the deleveloper",
+        "thumbsUp": 2,
+        "date": "2026-01-09 10:54:29"
+      },
+      {
+        "userName": "Kehinde Ogunwale",
+        "score": 5,
+        "content": "I have been using the app since the day I downloaded it, and I'm quite satisfied with the activities and detailed explanation. The app itself is easy to navigate and nicely designed to give you a pleasant experience",
+        "thumbsUp": 1,
+        "date": "2026-01-09 08:21:07"
+      },
+      {
+        "userName": "Ogundare Peter",
+        "score": 5,
+        "content": "I don't think I have done this before but I just have to I just downloaded the daily therapy app and haven't used it much but, I really wanted to praise the creators of daily therapy for this great app",
+        "thumbsUp": 0,
+        "date": "2026-01-07 16:32:58"
+      },
+      {
+        "userName": "Showunmi Richard",
+        "score": 5,
+        "content": "My daily therapy is a great app. Thanks to it, I have been able to solve some certain mental health issues, putting me back on the positive side. The best",
+        "thumbsUp": 0,
+        "date": "2026-01-07 13:56:34"
+      },
+      {
+        "userName": "Hassan Odunlami",
+        "score": 5,
+        "content": "This app feels throughfully made. The articles are relevant, and the videos don't feel generic. it's clear that care went into the content.",
+        "thumbsUp": 1,
+        "date": "2026-01-07 12:17:26"
+      },
+      {
+        "userName": "Moreno Perez",
+        "score": 5,
+        "content": "I appreciate that the app doesn’t require constant internet access. Being able to listen to guided audio offline has helped me during stressful moments when I really needed it.",
+        "thumbsUp": 0,
+        "date": "2026-01-06 22:01:04"
+      },
+      {
+        "userName": "Tadisa Chatanga",
+        "score": 3,
+        "content": "gooood",
+        "thumbsUp": 0,
+        "date": "2025-09-27 14:53:00"
+      },
+      {
+        "userName": "Fekeeye",
+        "score": 5,
+        "content": "Home workouts , audio relaxing, AI features and even learning what you should. good app but unfortunately I can't afford some purchases to explore the app more",
+        "thumbsUp": 1,
+        "date": "2025-05-30 15:52:12"
+      }
+    ]
+  },
+  {
+    "appId": "com.thoughtful.sh.app",
+    "title": "Thoughtful: AI Mental Health",
+    "developer": "Thoughtful AI",
+    "genre": "Health & Fitness",
+    "score": null,
+    "ratings": null,
+    "reviews_count": null,
+    "installs": "100+",
+    "realInstalls": 162,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "Thoughtful is private, and always available. Chat anytime with an AI designed by experts. Practice skills, find perspective, and take a pause when you need it.\r\n\r\nConversations with Thoughtful are unlimited and available 24/7. Use it for a quick check-in or a longer conversation. Sessions draw on established mental wellbeing practices, with simple exercises and clear next steps you can try right away.\r\n\r\nThoughtful is built by clinicians, researchers, and builders who believe high-quality support should be available when people need it most.\r\n\r\nImportant to know: Thoughtful is an AI mental wellness support tool. Please remember, Thoughtful is not a human therapist and cannot provide medical advice or diagnose conditions. Thoughtful is not a replacement for therapy. It’s not designed for crisis. If you are in crisis, please call emergency services or visit findahelpline.com for resources.",
+    "released": "Jan 7, 2026",
+    "user_reviews": []
+  },
+  {
+    "appId": "de.moodpath.android",
+    "title": "MindDoc: Mental Health Support",
+    "developer": "MindDoc Health GmbH",
+    "genre": "Health & Fitness",
+    "score": 4.215368,
+    "ratings": 40098,
+    "reviews_count": 3896,
+    "installs": "1,000,000+",
+    "realInstalls": 1908792,
+    "free": true,
+    "price": 0,
+    "containsAds": false,
+    "description": "🌟 <b>Discover MindDoc: Your Mental Health Companion</b>\r\nEmbark on your journey towards better mental health with MindDoc. Trusted by over 3 million users worldwide, MindDoc is rated 4.7 stars from 26,000+ reviews, making it the go-to app for mental well-being.\r\n\r\n🧠 <b>Developed by Experts in Mental Health</b>\r\nDeveloped by clinical psychologists and researchers, MindDoc is designed to support individuals facing common mental health challenges including depression, anxiety, insomnia, and eating disorders.\r\n\r\n<b>Track Your Mood and Journal Your Thoughts</b> 📝\r\nUtilize our intuitive mood tracking feature to monitor your emotional state and journal your thoughts, feelings, and experiences.\r\n\r\n<b>Personalized Insights and Feedback</b>\r\nReceive regular feedback on your symptoms, problems and resources as well as a global assessment of your emotional health that you can download and share with your health care provider. \r\n\r\n<b>A Comprehensive Course Library Based on Cognitive Behavioral Therapy (CBT)</b>\r\nReceive personalized course recommendations, become an expert for your own mental health and learn and practice  actionable strategies for taking charge of your mental health..\r\n\r\n<b>Unlock Premium Features with MindDoc Plus</b>\r\nElevate your experience with MindDoc+ and gain unlimited access to our exclusive features with a subscription. Whether you choose a 3-month, 6-month, or 1-year plan, MindDoc+ offers you comprehensive resources and insights to support your mental well-being. \r\n\r\n👩‍⚕️ <b>Your Trusted Mental Health Partner</b>\r\nMindDoc serves as your dedicated companion on your mental health journey, offering support for various aspects of well-being, including symptom management, coping with painful emotions, stress management, mindfulness, relationships, time management, and self-image.\r\n\r\n🔒 <b>Privacy and Support</b>\r\nWe are committed to your privacy and security. Certified with ISO 27001 and fully GDPR compliant, we prioritize protecting your personal information with the highest standards of security\r\nOur robust data security measures ensure that your information is encrypted and securely stored at all times.\r\n\r\nRest assured, your privacy is our priority. For assistance or inquiries, reach out to service@minddoc.com.. Learn more about our terms and privacy policy to ensure a safe and secure experience.\r\n\r\nhttps://minddoc.com/us/en/terms\r\nhttps://minddoc.com/us/en/self-help/privacy-policy\r\n\r\n📋 <b>Regulatory Information</b>\r\nMindDoc app is a risk class I medical product according to Annex VIII, Rule 11 of the MDR (REGULATION (EU) 2017/745 on medical devices) \r\n\r\nIntended medical purpose\r\n\r\nThe MindDoc app allows users to log signs and symptoms of common mental illnesses in real time over long periods of time. \r\n\r\nThe application enables users to self-manage symptoms and related problems by providing evidence-based transdiagnostic courses and exercises to help identify, understand, and manage symptoms through self-initiated behavior change.\r\n\r\nThe application provides users with regular guidance on whether further medical or psychotherapeutic evaluation is indicated through a general feedback on emotional health. \r\n\r\nThe MindDoc app explicitly does not replace a medical or psychotherapeutic assessment or treatment, but can prepare and support the path to psychiatric or psychotherapeutic treatment.\r\n\r\n⚕️ <b>Empowering Self-Management</b>\r\nEmpower yourself with tools and resources for self-management and promoting a proactive approach to mental health care.\r\n\r\n📲 <b>Start Your Mental Health Journey Today</b>\r\nTake the first step towards taking care of your mental health by downloading MindDoc for free today. Promote your well-being, one step at a time.",
+    "released": "Aug 2, 2017",
+    "user_reviews": [
+      {
+        "userName": "Ellie A.",
+        "score": 5,
+        "content": "It's day one, so I will try to update to reflect later thoughts! So far the interface is easy to use and I like the reading it has for relevant concerns. I am genuinely looking forward to using this tomorrow! 😊 I do wish the courses had a night mode or a different background. Just a little glaring nitpick though, otherwise I think it is pretty good.",
+        "thumbsUp": 0,
+        "date": "2026-05-24 04:06:45"
+      },
+      {
+        "userName": "Cody",
+        "score": 1,
+        "content": "Another one you can't do anything without having to pay for, and a big amount.",
+        "thumbsUp": 0,
+        "date": "2026-05-16 17:20:00"
+      },
+      {
+        "userName": "Emily Pyles",
+        "score": 1,
+        "content": "It doesn't work. I can't unlock any of the content because it won't let me start my free trial.",
+        "thumbsUp": 0,
+        "date": "2026-05-08 20:29:44"
+      },
+      {
+        "userName": "Asiyatuh",
+        "score": 5,
+        "content": "it's really good",
+        "thumbsUp": 0,
+        "date": "2026-04-11 21:00:11"
+      },
+      {
+        "userName": "Faizel Samuels",
+        "score": 5,
+        "content": "useful",
+        "thumbsUp": 0,
+        "date": "2026-04-08 11:52:44"
+      },
+      {
+        "userName": "David Mile",
+        "score": 5,
+        "content": "I am perhaps biased as I have not tried other, similar apps. But I very much like how this one presents the options available to you.",
+        "thumbsUp": 0,
+        "date": "2026-04-04 13:09:17"
+      },
+      {
+        "userName": "Anna",
+        "score": 2,
+        "content": "Everything but the introduction is paywalled. I do not need an app to notice what affects mood. Downloaded for the mental health resources, but will use something that offers a chance to text the benefits before charging.",
+        "thumbsUp": 0,
+        "date": "2026-03-24 03:20:50"
+      },
+      {
+        "userName": "Seven Appel",
+        "score": 1,
+        "content": "It is good app but you cannot change te language",
+        "thumbsUp": 0,
+        "date": "2026-02-28 14:42:08"
+      },
+      {
+        "userName": "Ollie Simmons",
+        "score": 5,
+        "content": "good",
+        "thumbsUp": 0,
+        "date": "2026-02-23 08:09:51"
+      },
+      {
+        "userName": "Agent Jordan",
+        "score": 4,
+        "content": "I'm going to try this out because I hear voices in person and sometimes they can be mean or insulting",
+        "thumbsUp": 0,
+        "date": "2026-02-01 17:26:13"
+      },
+      {
+        "userName": "Jenny Pots",
+        "score": 2,
+        "content": "no depth just cheep commercial like advice but u may have a different openion so try it and see 4 ur self",
+        "thumbsUp": 1,
+        "date": "2026-01-18 11:08:53"
+      },
+      {
+        "userName": "Inna Hudaya",
+        "score": 5,
+        "content": "I started using this app back in 2019, when it was still called Moodpath. This app helped me understand my symptoms and patterns, making it easier to navigate my mental health day to day. Because I used it consistently, I never came to therapy or doctor appointments with a blank mind. I used the notes from the app to guide discussions, and my doctor even said it made working with me easier. A simple but powerful tool that truly supports professional care.",
+        "thumbsUp": 5,
+        "date": "2026-01-14 19:08:29"
+      },
+      {
+        "userName": "Kamaria Benge",
+        "score": 5,
+        "content": "This app is great and it's completely free! You check in with your mood and answer a handful of questions a few times a day (all private of course), you can look at any of the material, there is a course you can follow, depending on what you feel you need (like if you are exhausted, or if you want to increase strength mentally and physically, etc). Highly recommended!",
+        "thumbsUp": 5,
+        "date": "2026-01-03 18:37:47"
+      },
+      {
+        "userName": "Nameless",
+        "score": 5,
+        "content": "So far I love this app. comprehensive insight, accurate and helpful information, and more in a well put together application. Nice work y'all.",
+        "thumbsUp": 0,
+        "date": "2025-12-19 16:48:32"
+      },
+      {
+        "userName": "Azir Buskirk",
+        "score": 5,
+        "content": "great site",
+        "thumbsUp": 0,
+        "date": "2025-12-05 00:16:34"
+      },
+      {
+        "userName": "Jay H Lindsey, PHDnHB",
+        "score": 4,
+        "content": "So far it has helped me with stress, so it really has been helpful I just don't want some half-done therapy approach. Do far so good!",
+        "thumbsUp": 3,
+        "date": "2025-11-26 13:07:25"
+      },
+      {
+        "userName": "Daniel",
+        "score": 5,
+        "content": "helpful.",
+        "thumbsUp": 0,
+        "date": "2025-11-26 01:40:37"
+      },
+      {
+        "userName": "Robby Sanchezjr",
+        "score": 5,
+        "content": "literally just got the app and now im starting to get better",
+        "thumbsUp": 0,
+        "date": "2025-11-11 16:31:26"
+      },
+      {
+        "userName": "Nick Khoury",
+        "score": 4,
+        "content": "Installed to see if information is correct, current, valid, reliable, usable. thx.",
+        "thumbsUp": 0,
+        "date": "2025-11-08 12:46:40"
+      },
+      {
+        "userName": "Marco Lil LAzyBoY",
+        "score": 5,
+        "content": "ThiNk YoU",
+        "thumbsUp": 0,
+        "date": "2025-11-07 01:38:02"
+      },
+      {
+        "userName": "Robert Sean “Maverick” McCarthy",
+        "score": 4,
+        "content": "Cool app I think it's going to be worth the money",
+        "thumbsUp": 0,
+        "date": "2025-11-01 13:33:25"
+      },
+      {
+        "userName": "Anthony Dean Newton",
+        "score": 5,
+        "content": "Very informative and embarks one on a journey of self revelations. Also along the way equipping someone with factual references of information & insight about their various personal issues we all endure as commonalities. This in turn instills someone's positivity about innate ability for growth of self-confidence and resolve should one go up the road to self- acceptance of human conditions & to explore trending therapeutic non pharmaceutical treatments lastly unto psychology/psychiatric advice",
+        "thumbsUp": 1,
+        "date": "2025-10-07 02:10:06"
+      },
+      {
+        "userName": "Shree Singh",
+        "score": 5,
+        "content": "it's good",
+        "thumbsUp": 0,
+        "date": "2025-09-24 17:13:20"
+      },
+      {
+        "userName": "Wndering Wnderer",
+        "score": 4,
+        "content": "Useful. Better than a lot of other apps. I recommend it. But, I removed 1 star as info on the methodology of calculating the results is not sufficiently apparent - how is it done and how robustly has it been tested?",
+        "thumbsUp": 0,
+        "date": "2025-09-19 08:30:08"
+      },
+      {
+        "userName": "Oladele Olamide",
+        "score": 5,
+        "content": "I'm a new user but definitely enjoying the features.",
+        "thumbsUp": 0,
+        "date": "2025-07-31 20:30:06"
+      },
+      {
+        "userName": "Arefa Sultana",
+        "score": 1,
+        "content": "soo bad",
+        "thumbsUp": 0,
+        "date": "2025-07-18 09:44:50"
+      },
+      {
+        "userName": "Jette Johnston",
+        "score": 2,
+        "content": "I'm sure this app is great but it's mostly locked and for paid members. I couldn't get much out of it without paying. Could potentially be used as a mood tracker but not much else.",
+        "thumbsUp": 1,
+        "date": "2025-07-16 08:20:02"
+      },
+      {
+        "userName": "Yogen Nalbo",
+        "score": 5,
+        "content": "Amazing app satisfied",
+        "thumbsUp": 0,
+        "date": "2025-07-02 17:51:01"
+      },
+      {
+        "userName": "Peyton George",
+        "score": 1,
+        "content": "doesn't help",
+        "thumbsUp": 0,
+        "date": "2025-06-22 06:07:31"
+      },
+      {
+        "userName": "Lisa Searle",
+        "score": 4,
+        "content": "I can not afford this app however it looks fantastic. I'll see if my dr will help if not I'll just have to stick to free or cheaper ones. Dr said he'd help pay but this one's quite expensive so I really don't know. looks helpful though",
+        "thumbsUp": 1,
+        "date": "2025-06-09 10:37:51"
+      },
+      {
+        "userName": "Ami Lee",
+        "score": 3,
+        "content": "so far I've found this app really helpful, although when it asks about thoughts to end your life it pops up with a chat that asks if you want to be connected to an anonymous lifeline or a friend/family member - the lifeline is a telephone number to call, which is inaccessible for many (deaf/HOH people for example, or for me it's because I struggle with verbal shutdowns due to autism). perhaps offering the SHOUT text service number as well would be a good option to remedy this",
+        "thumbsUp": 1,
+        "date": "2025-06-02 19:22:08"
+      },
+      {
+        "userName": "Mariem Siam",
+        "score": 5,
+        "content": "really helpful ☆edit☆ WELL now I have been using this app for two weeks and damn I never thought it would be this perfect. Literally this is the best app I have ever downloaded in my entire life. No, this really helps and made me seriously consider the therapist step and made me pay attention to myself. When I responded to a question about having suicidal thoughts, there was no underestimation of the matter. Now I sent the therapy a REBORT based on the application and it is 100% realistic!!!!",
+        "thumbsUp": 1,
+        "date": "2025-05-30 10:20:04"
+      },
+      {
+        "userName": "Mmesoma Orji",
+        "score": 5,
+        "content": "it's nice to use",
+        "thumbsUp": 0,
+        "date": "2025-05-20 21:06:36"
+      },
+      {
+        "userName": "Ali Syr",
+        "score": 5,
+        "content": "total wichtige App . ich empfehle sie .",
+        "thumbsUp": 0,
+        "date": "2025-05-20 17:31:28"
+      },
+      {
+        "userName": "Don Macdonald",
+        "score": 1,
+        "content": "just a money grab like the rest of them. If u don't pay, your wasting your time as I have been for the last 4 years. There are way better ones out theere, 10 times better, that don't require to be fit into our tight budgets. It's just too bad. Adios amigos. Good luck with your journeys.",
+        "thumbsUp": 0,
+        "date": "2025-05-16 17:09:56"
+      },
+      {
+        "userName": "David Pugh",
+        "score": 1,
+        "content": "I had a very disappointing experience. As a mood tracker, it is too basic compared with a multitude of other apps. It's USP? It asks you questions 3 times a day for 2 weeks, at the end, you are told you need to consult a therapist. Which surprise, surprise, Minddoc can recommend one at $65 per week. It is utterly useless for me being unable to afford this and also in the UK. An app designed to exploit people's mental health fears for money",
+        "thumbsUp": 4,
+        "date": "2025-05-14 08:42:50"
+      },
+      {
+        "userName": "Rhonda Stewart",
+        "score": 5,
+        "content": "good pace. good match for content. 3x Daily check in to track mood.",
+        "thumbsUp": 0,
+        "date": "2025-05-01 04:00:41"
+      },
+      {
+        "userName": "Allen Q.",
+        "score": 3,
+        "content": "Right away requires a user account be created and the mandatory terms include you have to agree to the sharing of your personal and health information. NOT FOR ME!",
+        "thumbsUp": 1,
+        "date": "2025-04-28 12:46:37"
+      },
+      {
+        "userName": "Fatima Khan",
+        "score": 5,
+        "content": "mindDoc is a really great app for journaling and tracking moods because sometimes we ourselves don't know what we're feeling. These exercises help us clear our thoughts greatly.",
+        "thumbsUp": 0,
+        "date": "2025-04-28 10:15:48"
+      },
+      {
+        "userName": "Cole Payne-sexton",
+        "score": 1,
+        "content": "Puts results behind a paywall after using for 14 days, thus making it useless",
+        "thumbsUp": 2,
+        "date": "2025-04-28 02:09:39"
+      },
+      {
+        "userName": "alireza riazati",
+        "score": 4,
+        "content": "installed 3 days ago and i like it so far. though it's checkin on me by asking questions only",
+        "thumbsUp": 0,
+        "date": "2025-04-26 16:52:46"
+      },
+      {
+        "userName": "K Ervin",
+        "score": 5,
+        "content": "I always look forward to the questions because I never know what it will ask. I am 3 weeks into the mindfulness. it has a place to write down my thoughts. this is nice because it's like a safe place where I can do so. every 2 weeks, it analyzes and gives you the analysis, which is helpful.",
+        "thumbsUp": 1,
+        "date": "2025-04-21 14:12:27"
+      },
+      {
+        "userName": "Azooz Alhosani",
+        "score": 5,
+        "content": "Seems like my own psychiatrist, I kinda like it.",
+        "thumbsUp": 0,
+        "date": "2025-04-19 19:21:27"
+      },
+      {
+        "userName": "Mason Riedesel",
+        "score": 5,
+        "content": "This app helps me stay grounded.",
+        "thumbsUp": 0,
+        "date": "2025-04-14 11:50:57"
+      },
+      {
+        "userName": "Ryan Leppo",
+        "score": 1,
+        "content": "not getting notifications to answer the questions",
+        "thumbsUp": 2,
+        "date": "2025-04-04 03:45:46"
+      },
+      {
+        "userName": "Steve McManus",
+        "score": 4,
+        "content": "Pretty good app that I have used every day for two years or so. The bi-weekly results are a great way to see a sort of big picture of how I'm feeling. update 3/31/25 - The only negative I have to say about this app now is that it keeps asking me to leave a review every other day despite the fact that I already left a review (THIS review) a good three years ago.",
+        "thumbsUp": 12,
+        "date": "2025-04-01 04:12:33"
+      },
+      {
+        "userName": "Michael Nasr",
+        "score": 4,
+        "content": "Has pertinent questions",
+        "thumbsUp": 0,
+        "date": "2025-02-25 22:22:50"
+      },
+      {
+        "userName": "Michael Johnstone",
+        "score": 4,
+        "content": "Great app, would be better if you could secure with a pin code but its otherwise great",
+        "thumbsUp": 0,
+        "date": "2025-02-24 11:14:49"
+      },
+      {
+        "userName": "Clementino Lara Grajales",
+        "score": 5,
+        "content": "Thanks for my daily dose of reflection. :)",
+        "thumbsUp": 0,
+        "date": "2025-02-06 01:32:24"
+      },
+      {
+        "userName": "Renee Miller",
+        "score": 5,
+        "content": "Very helpful /thoughtful questions about my mental state. It's funny how just reflecting on and acknowledging my current mental state can bring calm.",
+        "thumbsUp": 0,
+        "date": "2025-01-31 15:26:15"
+      }
+    ]
+  }
+]
